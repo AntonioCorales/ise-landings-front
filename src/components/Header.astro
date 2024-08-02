@@ -1,0 +1,13 @@
+---
+import { parseClasses } from "@/content/functions";
+interface Props {
+  class?: string;
+}
+
+const props = Astro.props;
+const classes = parseClasses(props.class, "flex align-middle py-2 px-3" );
+---
+
+<header class={classes}>
+  <img src="/favicon.svg" alt="Logo" class="size-8" />
+</header>
