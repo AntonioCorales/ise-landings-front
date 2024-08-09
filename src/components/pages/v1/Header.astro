@@ -1,0 +1,19 @@
+---
+import { parseClasses } from "@/utils/functions";
+
+interface Props {
+  class?: string;
+}
+
+const props = Astro.props;
+---
+
+<header class={parseClasses(props.class, "flex align-middle py-1 px-3 gap-2")}>
+  <img src="/logo.svg" alt="iSE" class="h-12 w-auto lg:h-16" />
+</header>
+
+<style>
+  header {
+    background-color: var(--header-bg-v1);
+  }
+</style>

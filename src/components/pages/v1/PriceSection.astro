@@ -1,0 +1,85 @@
+---
+import { getPrice } from "@/utils/functions";
+import { detailsStore } from "@/storage/details";
+import ButtonBuy from "./ButtonBuy";
+import Stat from "./Stat.astro";
+import {
+  Engineer,
+  Course,
+  People,
+  Timer,
+  Download,
+  ShoppingCart,
+} from "@/components/icons";
+
+const input = detailsStore.value?.input;
+
+if (!input) return;
+const price = getPrice(input.price, "USD");
+const originalPrice = getPrice(input.normalPrice, "USD");
+---
+
+<section class="flex flex-col gap-2 p-4 mt-4 rounded-md border-2 ">
+  <img src={input.template.image} alt={input.name} class="w-full" />
+  <h1 class="font-medium text-xl text-pretty lg:text-2xl lg:my-2">{input.name}</h1>
+  <div class="price-container flex flex-row gap-2 items-center">
+    <span class="text-2xl price font-semibold">{price}</span>
+    <span
+      class="price-discount text-sm rounded-md py-1 px-2 text-center font-medium"
+    >
+      {input.discountPercentage}% dcto.
+    </span>
+  </div>
+  <div class="original-price flex flex-row gap-2 items-center">
+    <span class="text-md">Precio original: {originalPrice}</span>
+  </div>
+  <div class="students text-md flex flex-row items-center gap-1">
+    <People />
+    {input.template.students} estudiantes
+  </div>
+
+  <ButtonBuy client:load details={detailsStore.value} className="lg:hover:scale-105 transition-transform">
+    <ShoppingCart />
+    Comprar ahora
+  </ButtonBuy>
+  <Stat>
+    <Course slot="icon" />
+    {input.template.curriculum.length} cursos
+  </Stat>
+  <Stat>
+    <Timer slot="icon" />
+    {input.template.contentQuantity} horas de contenido
+  </Stat>
+  <Stat>
+    <Engineer slot="icon" />
+    {input.template.practiceQuantity} horas de práctica
+  </Stat>
+  <Stat>
+    <Download slot="icon" />
+    {input.template.assetsQuantity} bonos descargables
+  </Stat>
+</section>
+
+<style>
+  section {
+    background-color: var(--dark-2);
+    border-color: var(--sky-2);
+
+    .price-container {
+      .price {
+        color: var(--sky-3);
+      }
+
+      .price-discount {
+        background-color: var(--yellow-1);
+        color: var(--dark-1);
+      }
+    }
+
+    .students {
+      svg {
+        font-size: 1rem;
+      }
+    }
+  }
+</style>

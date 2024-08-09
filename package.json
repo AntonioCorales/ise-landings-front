@@ -7,18 +7,32 @@
     "start": "astro dev",
     "build": "astro check && astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "generate-icons": "node src/components/icons/generate-index.js",
+    "watch-icons": "nodemon --watch src/components/icons --exec \"node src/components/icons/generate-index.js\""
   },
   "dependencies": {
     "@astrojs/check": "^0.9.1",
+    "@astrojs/node": "^8.3.2",
     "@astrojs/react": "^3.6.1",
     "@astrojs/tailwind": "^5.1.0",
+    "@astrojs/vercel": "^7.7.2",
+    "@emotion/react": "^11.13.0",
+    "@emotion/styled": "^11.13.0",
+    "@mui/icons-material": "^5.16.6",
+    "@mui/material": "^5.16.6",
+    "@nanostores/react": "^0.7.3",
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
     "astro": "^4.13.1",
+    "luxon": "^3.4.4",
+    "nanostores": "^0.11.2",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "tailwindcss": "^3.4.7",
     "typescript": "^5.5.4"
+  },
+  "devDependencies": {
+    "@types/luxon": "^3.4.2"
   }
 }

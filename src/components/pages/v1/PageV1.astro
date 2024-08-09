@@ -1,0 +1,36 @@
+---
+import CounterBanner from "@/components/pages/v1/CounterBanner.astro";
+import GeneralSection from "@components/GeneralSection.astro";
+import PriceSection from "@/components/pages/v1/PriceSection.astro";
+import PriceBanner from "@/components/pages/v1/PriceBanner.astro";
+import Tabs from "@/components/pages/v1/Tabs.tsx";
+import { detailsStore } from "@/storage/details";
+import Bennefits from "@/components/pages/v1/Benefits.astro";
+
+const input = detailsStore.value?.input;
+
+if (!input) return;
+---
+
+<div class="page relative min-h-[200vh] pb-20 lg:pb-12">
+  <CounterBanner transition:persist transition:name="counter" />
+  <div class="h-4 bg-[--body-bg-v1]"></div>
+  <GeneralSection>    
+    <Tabs input={input} client:load />
+    <div class="price-container relative">
+      <div class="lg:sticky top-24">
+        <PriceSection transition:persist transition:name="price" />
+        <Bennefits />
+      </div>
+    </div>
+  </GeneralSection>
+  <PriceBanner />
+</div>
+
+<style is:global>
+  .content-html {
+    iframe {
+      display: none;
+    }
+  }
+</style>

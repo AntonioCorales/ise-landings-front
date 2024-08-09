@@ -1,0 +1,44 @@
+---
+import Error404Icon from "@/components/icons/Error404";
+import LayoutV1 from "@/layouts/LayoutV1.astro";
+import GeneralSection from "@components/GeneralSection.astro";
+import ButtonBack from "@/components/pages/commun/ButtonBack";
+
+/* cambiar el título de la página */
+
+const title = "404: Página no encontrada";
+
+const url = Astro.site;
+const prevPage = url?.origin;
+console.log(prevPage);
+---
+
+<LayoutV1 title={title}>
+  <GeneralSection>
+    <div class="min-w-80 py-40 mx-auto flex flex-col gap-8 lg:max-w-[800px]">
+      <div class="flex flex-col lg:flex-row justify-center items-center gap-2">
+        <div class="icon-404 w-[20%] flex justify-center items-center">
+          <Error404Icon className="size-[100px] text-sky-400" />
+        </div>
+        <div class="text-404 w-[40%] flex flex-col gap-4">
+          <h1 class="text-center text-4xl">404</h1>
+          <p class="text-center text-xl text-pretty">La página que buscas no existe.</p>
+        </div>
+      </div>
+      <span class="text-center text-sm text-blue-1">
+        <ButtonBack className="text-sky-400" client:visible>
+          Volver atrás
+        </ButtonBack>
+      </span>
+    </div>
+  </GeneralSection>
+</LayoutV1>
+
+<style>
+  .icon-404 {
+    svg {
+      width: 100px;
+      height: 100px;
+    }
+  }
+</style>

@@ -1,0 +1,17 @@
+---
+interface Props {
+  price: string;
+  originalPrice: string;
+}
+
+const { price, originalPrice } = Astro.props;
+---
+
+<span class="text-xl font-medium relative">
+  <span
+    class="text-xs original-price absolute top-[-10px] left-0 text-center w-full line-through"
+  >
+    {originalPrice}
+  </span>
+  {price}
+</span>

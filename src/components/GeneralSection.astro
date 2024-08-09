@@ -2,13 +2,22 @@
 
 ---
 
-<section class="max-w-sm xl:max-w-screen-xl">
+<section
+  class="max-w-[95vw] md:max-w-[90vw] lg:max-w-[1000px] xl:max-w-[1200px] xl:w-[95vw] flex flex-col-reverse gap-2 lg:gap-10"
+>
   <slot />
 </section>
 
 <style>
   section {
-    max-width: 95vw;
-    margin: 0 auto;
+    margin-inline: auto;
+  }
+
+  @media (min-width: 1024px) {
+    section {
+      display: grid;
+      grid-template-columns: 2fr 1fr;
+      
+    }
   }
 </style>

@@ -1,0 +1,23 @@
+---
+import { detailsStore } from "@/storage/details";
+import BenefitsList from "./BenefitsList";
+
+const input = detailsStore.value?.input;
+if (!input) return;
+---
+
+<div class="hidden lg:flex flex-col gap-2 p-4">
+  <h2 class="text-xl font-medium">Beneficios</h2>
+  <BenefitsList />
+</div>
+
+<style>
+  .bennefits-list {
+    li {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        gap: 10px;
+    }
+  }
+</style>
