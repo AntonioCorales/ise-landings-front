@@ -1,5 +1,3 @@
-"use client";
-
 import type { Details } from "@/content/type";
 
 export default function ButtonBuy(props: ButtonBuyProps) {
