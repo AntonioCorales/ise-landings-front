@@ -1,0 +1,13 @@
+---
+import GeneralSection from "@/components/GeneralSection.astro";
+import { detailsStore } from "@/storage/details";
+import CartSuspense from "./CartSuspense";
+
+const details = detailsStore.value;
+---
+
+<main>
+  <GeneralSection class="flex flex-col-reverse gap-16">
+    <CartSuspense details={details} client:load />
+  </GeneralSection>
+</main>

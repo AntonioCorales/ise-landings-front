@@ -3,15 +3,12 @@ export function parseClasses(...classes: (string | undefined)[]): string {
   return filteredClasses.map((fc) => fc.trim()).join(" ");
 }
 
-export function joinURLs(baseUrl: string, url: string): string {
-  if (url.startsWith("/")) {
-    if (baseUrl.endsWith("/")) {
-      return baseUrl + url.substring(1);
-    }
-    return baseUrl + url;
-  }
-  return url;
+export function joinURL(...urls: string[]): string {
+  if(urls.length === 0) return "";
+  return urls.map((url) => url.trim().replace(/(\/)+$/, "")).join("/");
+  
 }
+  
 
 export function getPrice(number: number, currency: "USD" | "PEN"): string {
   return number.toLocaleString(currency === "USD" ? "en-US" : "es-PE", {

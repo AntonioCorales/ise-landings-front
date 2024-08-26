@@ -1,8 +1,10 @@
 ---
 import { ViewTransitions } from 'astro:transitions';
-interface Props {
+export interface GeneralLayoutProps {
   title?: string;
 }
+
+interface Props extends GeneralLayoutProps {}
 
 const { title } = Astro.props;
 const titleDefault = "iSE";

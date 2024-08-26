@@ -19,9 +19,11 @@ const price = getPrice(input.price, "USD");
 const originalPrice = getPrice(input.normalPrice, "USD");
 ---
 
-<section class="flex flex-col gap-2 p-4 mt-4 rounded-md border-2 ">
+<section class="flex flex-col gap-2 p-4 mt-4 rounded-md border-2">
   <img src={input.template.image} alt={input.name} class="w-full" />
-  <h1 class="font-medium text-xl text-pretty lg:text-2xl lg:my-2">{input.name}</h1>
+  <h1 class="font-medium text-xl text-pretty lg:text-2xl lg:my-2">
+    {input.name}
+  </h1>
   <div class="price-container flex flex-row gap-2 items-center">
     <span class="text-2xl price font-semibold">{price}</span>
     <span
@@ -38,9 +40,15 @@ const originalPrice = getPrice(input.normalPrice, "USD");
     {input.template.students} estudiantes
   </div>
 
-  <ButtonBuy client:load details={detailsStore.value} className="lg:hover:scale-105 transition-transform">
-    <ShoppingCart />
-    Comprar ahora
+  <ButtonBuy
+    client:load
+    details={detailsStore.value}
+    className="lg:hover:scale-105 transition-transform"
+  >
+    <div class="flex flex-row gap-2 items-center justify-center w-full">
+      <ShoppingCart />
+      Comprar ahora
+    </div>
   </ButtonBuy>
   <Stat>
     <Course slot="icon" />

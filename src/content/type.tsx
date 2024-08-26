@@ -50,3 +50,36 @@ export type Curriculum = {
   items?: Curriculum[];
   url?: null;
 };
+
+export type Currency = {
+  code:            string;
+  createdAt:       Date;
+  country:         null | string;
+  documentLengths: number[];
+  documentName:    string;
+  format:          string;
+  id:              string;
+  name:            string;
+  nameSpanish:     string;
+  symbol:          string;
+  value:           number;
+}
+
+export type Country = {
+  alpha2Code:   string;
+  alpha3Code:   string;
+  callingCodes: string[];
+  id:           string;
+  flag:         string;
+  name:         string;
+  nativeName:   string;
+  numericCode:  null | string;
+  languages:    Language[];
+}
+
+export type Language = {
+  iso6391:    null | string;
+  name:       string;
+  nativeName: string;
+  iso6392:    string;
+}

@@ -42,7 +42,7 @@ export default function Tabs(props: TabsInterface) {
 
   return (
     <div className="flex flex-col gap-4 mt-3 lg:mt-0 relative">
-      <div className="sticky top-[60px] lg:top-[68px] z-10 bg-[--body-bg-v1] lg:pt-5 flex flex-col" ref={refButtonsContainer}>
+      <div className="sticky top-[60px] lg:top-[60px] z-10 bg-[--body-bg-v1] lg:pt-5 flex flex-col" ref={refButtonsContainer}>
         <div
           className="flex items-center justify-center md:gap-5 md:w-fit"
           ref={refButtons}

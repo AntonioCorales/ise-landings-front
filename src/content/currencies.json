@@ -1,0 +1,95 @@
+[
+  {
+    "code": "USD",
+    "createdAt": "2023-01-09T15:41:15.019Z",
+    "country": null,
+    "documentLengths": [],
+    "documentName": "CURP",
+    "format": "es-US",
+    "id": "65133d62191eb15d82c9bf49",
+    "name": "Dólar Americano",
+    "nameSpanish": "Dólar Americano",
+    "symbol": "$",
+    "value": 1
+  },
+  {
+    "code": "PEN",
+    "createdAt": "2023-01-09T15:41:15.019Z",
+    "country": null,
+    "documentLengths": [8, 9],
+    "documentName": "DNI",
+    "format": "es-PE",
+    "id": "63bc359c9f225e1b46192a09",
+    "name": "Soles Peruanos",
+    "nameSpanish": "Soles",
+    "symbol": "S/.",
+    "value": 405
+  },
+  {
+    "code": "ARS",
+    "createdAt": "2023-01-09T15:41:15.019Z",
+    "country": "AR",
+    "documentLengths": [7, 8, 9, 11],
+    "documentName": "DNI o CUIT",
+    "format": "es-AR",
+    "id": "650cd01b257bed5b41b674f1",
+    "name": "Pesos Argentinos",
+    "nameSpanish": "Pesos Argentinos",
+    "symbol": "$ ",
+    "value": 187203
+  },
+  {
+    "code": "MXN",
+    "createdAt": "2023-01-09T15:41:15.019Z",
+    "country": "MX",
+    "documentLengths": [10, 11, 12, 13, 14, 15, 16, 17, 18],
+    "documentName": "CURP",
+    "format": "es-MX",
+    "id": "6511f2b525b309200ffaa0d0",
+    "name": "Pesos Mexicanos",
+    "nameSpanish": "Pesos Mexicanos",
+    "symbol": "$",
+    "value": 2154
+  },
+  {
+    "code": "CLP",
+    "createdAt": "2023-01-09T15:41:15.019Z",
+    "country": "CL",
+    "documentLengths": [8, 9],
+    "documentName": "CI o RUT",
+    "format": "es-CL",
+    "id": "6513324c191eb15d82c9bf46",
+    "name": "Pesos Chilenos",
+    "nameSpanish": "Pesos Chilenos",
+    "symbol": "$",
+    "value": 104428
+  },
+  {
+    "code": "BOB",
+    "createdAt": "2023-01-09T15:41:15.019Z",
+    "country": "BO",
+    "documentLengths": [
+      5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
+    ],
+    "documentName": "CI",
+    "format": "es-BO",
+    "id": "65133301191eb15d82c9bf47",
+    "name": "Boliviano",
+    "nameSpanish": "Boliviano",
+    "symbol": "$",
+    "value": 755
+  },
+  {
+    "code": "COP",
+    "createdAt": "2023-01-09T15:41:15.019Z",
+    "country": "CO",
+    "documentLengths": [6, 7, 8, 9, 10],
+    "documentName": "CC",
+    "format": "es-CO",
+    "id": "65133d62191eb15d82c9bf48",
+    "name": "Peso Colombiano",
+    "nameSpanish": "Peso Colombiano",
+    "symbol": "$",
+    "value": 465682
+  }
+]

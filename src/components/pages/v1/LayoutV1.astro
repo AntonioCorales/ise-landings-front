@@ -1,0 +1,20 @@
+---
+import GeneralLayout, { type GeneralLayoutProps } from "@/layouts/GeneralLayout.astro";
+import Header from "@/components/pages/v1/Header.astro";
+
+interface Props extends GeneralLayoutProps {}
+
+const { title } = Astro.props;
+---
+
+<GeneralLayout title={title}>
+  <Header />
+  <slot />
+</GeneralLayout>
+
+
+<style>
+  body {
+    background-color: var(--body-bg-v1);
+  }
+</style>

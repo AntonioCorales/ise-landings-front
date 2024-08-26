@@ -18,9 +18,11 @@ const originalPrice = getPrice(input.normalPrice, "USD");
     details={detailsStore.value}
     className="w-full flex items-center justify-center gap-2 py-2"
   >
-   <ShoppingCart />
-    Consiguelo ahora por solo
-    <PriceSpan price={price} originalPrice={originalPrice} />
+    <div class="flex flex-row gap-2 items-center justify-center w-full">
+      <ShoppingCart />
+      Consiguelo ahora por solo
+      <PriceSpan price={price} originalPrice={originalPrice} />
+    </div>
   </ButtonBuy>
 </section>
 
@@ -29,6 +31,5 @@ const originalPrice = getPrice(input.normalPrice, "USD");
     text-decoration: line-through;
   }
   section {
-    
   }
 </style>

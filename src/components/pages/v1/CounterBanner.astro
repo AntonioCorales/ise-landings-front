@@ -1,65 +1,82 @@
 ---
 import Counter from "@/components/pages/v1/Counter";
 import { Timer, ShoppingCart } from "@/components/icons";
-import { getPrice, joinURLs } from "@/utils/functions.ts";
+import { getPrice } from "@/utils/functions.ts";
 import { detailsStore } from "@/storage/details";
 import ButtonBuy from "./ButtonBuy";
 import PriceSpan from "./PriceSpan.astro";
+import GeneralSection from "@/components/GeneralSection.astro";
+
+export interface CounterBannerProps {
+  hideButton?: boolean;
+}
+
+const { hideButton } = Astro.props;
 
 const input = detailsStore.value?.input;
 if (!input) return;
 const price = getPrice(input.price, "USD");
 const originalPrice = getPrice(input.normalPrice, "USD");
-
 ---
 
 <div
-  class="flex flex-col justify-center items-center gap-0 py-1 px-5 text-xl sticky top-0 z-10 counter-banner
+  class="flex flex-col justify-center items-center gap-0 py-1 text-xl sticky top-0 z-10 counter-banner
   lg:py-2 lg:px-5 lg:gap-16 lg:justify-between lg:flex-row
   xl:px-9"
 >
-  <div
-    class="flex flex-col justify-center items-center gap-0 text-xl sticky top-0 z-10 lg:gap-5 lg:flex-row"
-  >
-    <div class="flex flex-row justify-center items-center gap-2 text-2xl">
-      <Timer className="size-7" />
-      <Counter client:visible />
+  <GeneralSection class="justify-between">
+    <div
+      class="flex flex-col gap-0 text-xl sticky top-0 z-10 lg:gap-5 lg:flex-row items-center"
+    >
+      <div class="flex flex-row justify-center items-center gap-2 text-2xl">
+        <Timer className="size-7" />
+        <Counter client:visible />
+      </div>
+      <span class="text-sm text-center lg:text-base">
+        ¡Aprovecha este descuento, antes que acabe!
+      </span>
     </div>
-    <span class="text-sm text-center lg:text-base">
-      ¡Aprovecha este descuento, antes que acabe!
-    </span>
-  </div>
 
-  <ButtonBuy details={detailsStore.value} className="hidden lg:flex gap-2 items-center lg:hover:scale-105 transition-transform">
-    <ShoppingCart />
-    Comprar ahora
-    <PriceSpan price={price} originalPrice={originalPrice} />
-  </ButtonBuy>
-
-  <style>
-    .counter-banner {
-      /* color: var(--dark-1); */
-      background-color: var(--sky-2);
+    {
+      !hideButton && (
+        <ButtonBuy
+          details={detailsStore.value}
+          className="hidden lg:flex gap-2 items-center lg:hover:scale-105 transition-transform justify-center"
+          client:load
+        >
+          <div class="flex flex-row gap-2 items-center justify-center">
+            <ShoppingCart />
+            Comprar ahora
+            <PriceSpan price={price} originalPrice={originalPrice} />
+          </div>
+        </ButtonBuy>
+      )
     }
-
-    .banner-button {
-      background-color: var(--yellow-1);
-      color: var(--dark-1);
-      border: var(--dark-1) solid 1px;
-
-      svg {
-        font-size: inherit;
-      }
-
-      &:hover {
-        /* background-color: var(--sky-1); */
-      }
-    }
-
-    @media screen and (min-width: 1024px) {
-      .counter-button {
-        display: none;
-      }
-    }
-  </style>
+  </GeneralSection>
 </div>
+<style>
+  .counter-banner {
+    /* color: var(--dark-1); */
+    background-color: var(--sky-2);
+  }
+
+  .banner-button {
+    background-color: var(--yellow-1);
+    color: var(--dark-1);
+    border: var(--dark-1) solid 1px;
+
+    svg {
+      font-size: inherit;
+    }
+
+    &:hover {
+      /* background-color: var(--sky-1); */
+    }
+  }
+
+  @media screen and (min-width: 1024px) {
+    .counter-button {
+      display: none;
+    }
+  }
+</style>

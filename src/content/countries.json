@@ -1,0 +1,5714 @@
+[
+  {
+    "alpha2Code": "AF",
+    "alpha3Code": "AFG",
+    "callingCodes": [
+      "93"
+    ],
+    "id": "62c6013a058e6079efe7bb3f",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/afg.svg",
+    "name": "Afghanistan",
+    "nativeName": "افغانستان",
+    "numericCode": "004",
+    "languages": [
+      {
+        "iso6391": "tk",
+        "name": "Turkmen",
+        "nativeName": "Türkmen",
+        "iso6392": "tuk"
+      },
+      {
+        "iso6391": "uz",
+        "name": "Uzbek",
+        "nativeName": "Oʻzbek",
+        "iso6392": "uzb"
+      },
+      {
+        "iso6391": "ps",
+        "name": "Pashto",
+        "nativeName": "پښتو",
+        "iso6392": "pus"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "AL",
+    "alpha3Code": "ALB",
+    "callingCodes": [
+      "355"
+    ],
+    "id": "62c6000f058e6079efe7ba71",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/alb.svg",
+    "name": "Albania",
+    "nativeName": "Shqipëria",
+    "numericCode": "008",
+    "languages": [
+      {
+        "iso6391": "sq",
+        "name": "Albanian",
+        "nativeName": "Shqip",
+        "iso6392": "sqi"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "DZ",
+    "alpha3Code": "DZA",
+    "callingCodes": [
+      "213"
+    ],
+    "id": "62c60011058e6079efe7ba73",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/dza.svg",
+    "name": "Algeria",
+    "nativeName": "الجزائر",
+    "numericCode": "012",
+    "languages": [
+      {
+        "iso6391": "ar",
+        "name": "Arabic",
+        "nativeName": "العربية",
+        "iso6392": "ara"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "AS",
+    "alpha3Code": "ASM",
+    "callingCodes": [
+      "1684"
+    ],
+    "id": "62c6013b058e6079efe7bb40",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/asm.svg",
+    "name": "American Samoa",
+    "nativeName": "American Samoa",
+    "numericCode": "016",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      },
+      {
+        "iso6391": "sm",
+        "name": "Samoan",
+        "nativeName": "gagana fa'a Samoa",
+        "iso6392": "smo"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "AD",
+    "alpha3Code": "AND",
+    "callingCodes": [
+      "376"
+    ],
+    "id": "62c60013058e6079efe7ba74",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/and.svg",
+    "name": "Andorra",
+    "nativeName": "Andorra",
+    "numericCode": "020",
+    "languages": [
+      {
+        "iso6391": "ca",
+        "name": "Catalan",
+        "nativeName": "català",
+        "iso6392": "cat"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "AO",
+    "alpha3Code": "AGO",
+    "callingCodes": [
+      "244"
+    ],
+    "id": "62c60014058e6079efe7ba75",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/ago.svg",
+    "name": "Angola",
+    "nativeName": "Angola",
+    "numericCode": "024",
+    "languages": [
+      {
+        "iso6391": "pt",
+        "name": "Portuguese",
+        "nativeName": "Português",
+        "iso6392": "por"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "AI",
+    "alpha3Code": "AIA",
+    "callingCodes": [
+      "1264"
+    ],
+    "id": "62c60016058e6079efe7ba76",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/aia.svg",
+    "name": "Anguilla",
+    "nativeName": "Anguilla",
+    "numericCode": "660",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "AQ",
+    "alpha3Code": "ATA",
+    "callingCodes": [
+      "672"
+    ],
+    "id": "62c60017058e6079efe7ba77",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/ata.svg",
+    "name": "Antarctica",
+    "nativeName": "Antarctica",
+    "numericCode": "010",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      },
+      {
+        "iso6391": "ru",
+        "name": "Russian",
+        "nativeName": "Русский",
+        "iso6392": "rus"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "AG",
+    "alpha3Code": "ATG",
+    "callingCodes": [
+      "1268"
+    ],
+    "id": "62c60019058e6079efe7ba78",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/atg.svg",
+    "name": "Antigua and Barbuda",
+    "nativeName": "Antigua and Barbuda",
+    "numericCode": "028",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "AR",
+    "alpha3Code": "ARG",
+    "callingCodes": [
+      "54"
+    ],
+    "id": "62c6001a058e6079efe7ba79",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/arg.svg",
+    "name": "Argentina",
+    "nativeName": "Argentina",
+    "numericCode": "032",
+    "languages": [
+      {
+        "iso6391": "es",
+        "name": "Spanish",
+        "nativeName": "Español",
+        "iso6392": "spa"
+      },
+      {
+        "iso6391": "gn",
+        "name": "Guaraní",
+        "nativeName": "Avañe'ẽ",
+        "iso6392": "grn"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "AM",
+    "alpha3Code": "ARM",
+    "callingCodes": [
+      "374"
+    ],
+    "id": "62c6013c058e6079efe7bb41",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/arm.svg",
+    "name": "Armenia",
+    "nativeName": "Հայաստան",
+    "numericCode": "051",
+    "languages": [
+      {
+        "iso6391": "ru",
+        "name": "Russian",
+        "nativeName": "Русский",
+        "iso6392": "rus"
+      },
+      {
+        "iso6391": "hy",
+        "name": "Armenian",
+        "nativeName": "Հայերեն",
+        "iso6392": "hye"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "AW",
+    "alpha3Code": "ABW",
+    "callingCodes": [
+      "297"
+    ],
+    "id": "62c60020058e6079efe7ba7d",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/abw.svg",
+    "name": "Aruba",
+    "nativeName": "Aruba",
+    "numericCode": "533",
+    "languages": [
+      {
+        "iso6391": "nl",
+        "name": "Dutch",
+        "nativeName": "Nederlands",
+        "iso6392": "nld"
+      },
+      {
+        "iso6391": "pa",
+        "name": "(Eastern) Punjabi",
+        "nativeName": "ਪੰਜਾਬੀ",
+        "iso6392": "pan"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "AU",
+    "alpha3Code": "AUS",
+    "callingCodes": [
+      "61"
+    ],
+    "id": "62c60024058e6079efe7ba80",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/aus.svg",
+    "name": "Australia",
+    "nativeName": "Australia",
+    "numericCode": "036",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "AT",
+    "alpha3Code": "AUT",
+    "callingCodes": [
+      "43"
+    ],
+    "id": "62c6001d058e6079efe7ba7b",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/aut.svg",
+    "name": "Austria",
+    "nativeName": "Österreich",
+    "numericCode": "040",
+    "languages": [
+      {
+        "iso6391": "de",
+        "name": "German",
+        "nativeName": "Deutsch",
+        "iso6392": "deu"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "AZ",
+    "alpha3Code": "AZE",
+    "callingCodes": [
+      "994"
+    ],
+    "id": "62c6001f058e6079efe7ba7c",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/aze.svg",
+    "name": "Azerbaijan",
+    "nativeName": "Azərbaycan",
+    "numericCode": "031",
+    "languages": [
+      {
+        "iso6391": "az",
+        "name": "Azerbaijani",
+        "nativeName": "azərbaycan dili",
+        "iso6392": "aze"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "BS",
+    "alpha3Code": "BHS",
+    "callingCodes": [
+      "1242"
+    ],
+    "id": "62c60022058e6079efe7ba7e",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/bhs.svg",
+    "name": "Bahamas",
+    "nativeName": "Bahamas",
+    "numericCode": "044",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "BH",
+    "alpha3Code": "BHR",
+    "callingCodes": [
+      "973"
+    ],
+    "id": "62c60023058e6079efe7ba7f",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/bhr.svg",
+    "name": "Bahrain",
+    "nativeName": "‏البحرين",
+    "numericCode": "048",
+    "languages": [
+      {
+        "iso6391": "ar",
+        "name": "Arabic",
+        "nativeName": "العربية",
+        "iso6392": "ara"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "BD",
+    "alpha3Code": "BGD",
+    "callingCodes": [
+      "880"
+    ],
+    "id": "62c60026058e6079efe7ba81",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/bgd.svg",
+    "name": "Bangladesh",
+    "nativeName": "Bangladesh",
+    "numericCode": "050",
+    "languages": [
+      {
+        "iso6391": "bn",
+        "name": "Bengali",
+        "nativeName": "বাংলা",
+        "iso6392": "ben"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "BB",
+    "alpha3Code": "BRB",
+    "callingCodes": [
+      "1246"
+    ],
+    "id": "62c60027058e6079efe7ba82",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/brb.svg",
+    "name": "Barbados",
+    "nativeName": "Barbados",
+    "numericCode": "052",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "BY",
+    "alpha3Code": "BLR",
+    "callingCodes": [
+      "375"
+    ],
+    "id": "62c60029058e6079efe7ba83",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/blr.svg",
+    "name": "Belarus",
+    "nativeName": "Белару́сь",
+    "numericCode": "112",
+    "languages": [
+      {
+        "iso6391": "ru",
+        "name": "Russian",
+        "nativeName": "Русский",
+        "iso6392": "rus"
+      },
+      {
+        "iso6391": "be",
+        "name": "Belarusian",
+        "nativeName": "беларуская мова",
+        "iso6392": "bel"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "BE",
+    "alpha3Code": "BEL",
+    "callingCodes": [
+      "32"
+    ],
+    "id": "62c6002a058e6079efe7ba84",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/bel.svg",
+    "name": "Belgium",
+    "nativeName": "België",
+    "numericCode": "056",
+    "languages": [
+      {
+        "iso6391": "de",
+        "name": "German",
+        "nativeName": "Deutsch",
+        "iso6392": "deu"
+      },
+      {
+        "iso6391": "nl",
+        "name": "Dutch",
+        "nativeName": "Nederlands",
+        "iso6392": "nld"
+      },
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "BZ",
+    "alpha3Code": "BLZ",
+    "callingCodes": [
+      "501"
+    ],
+    "id": "62c60010058e6079efe7ba72",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/blz.svg",
+    "name": "Belize",
+    "nativeName": "Belize",
+    "numericCode": "084",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      },
+      {
+        "iso6391": "es",
+        "name": "Spanish",
+        "nativeName": "Español",
+        "iso6392": "spa"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "BJ",
+    "alpha3Code": "BEN",
+    "callingCodes": [
+      "229"
+    ],
+    "id": "62c6013e058e6079efe7bb42",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/ben.svg",
+    "name": "Benin",
+    "nativeName": "Bénin",
+    "numericCode": "204",
+    "languages": [
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "BM",
+    "alpha3Code": "BMU",
+    "callingCodes": [
+      "1441"
+    ],
+    "id": "62c60034058e6079efe7ba8b",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/bmu.svg",
+    "name": "Bermuda",
+    "nativeName": "Bermuda",
+    "numericCode": "060",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "BT",
+    "alpha3Code": "BTN",
+    "callingCodes": [
+      "975"
+    ],
+    "id": "62c60033058e6079efe7ba8a",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/btn.svg",
+    "name": "Bhutan",
+    "nativeName": "ʼbrug-yul",
+    "numericCode": "064",
+    "languages": [
+      {
+        "iso6391": "dz",
+        "name": "Dzongkha",
+        "nativeName": "རྫོང་ཁ",
+        "iso6392": "dzo"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "BO",
+    "alpha3Code": "BOL",
+    "callingCodes": [
+      "591"
+    ],
+    "id": "62c602f4160ecf9ca97aad74",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/bol.svg",
+    "name": "Bolivia (Plurinational State of)",
+    "nativeName": "Bolivia",
+    "numericCode": "068",
+    "languages": [
+      {
+        "iso6391": "es",
+        "name": "Spanish",
+        "nativeName": "Español",
+        "iso6392": "spa"
+      },
+      {
+        "iso6391": "ay",
+        "name": "Aymara",
+        "nativeName": "aymar aru",
+        "iso6392": "aym"
+      },
+      {
+        "iso6391": "qu",
+        "name": "Quechua",
+        "nativeName": "Runa Simi",
+        "iso6392": "que"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "BQ",
+    "alpha3Code": "BES",
+    "callingCodes": [
+      "5997"
+    ],
+    "id": "62c6002c058e6079efe7ba85",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/bes.svg",
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "nativeName": "Bonaire",
+    "numericCode": "535",
+    "languages": [
+      {
+        "iso6391": "nl",
+        "name": "Dutch",
+        "nativeName": "Nederlands",
+        "iso6392": "nld"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "BA",
+    "alpha3Code": "BIH",
+    "callingCodes": [
+      "387"
+    ],
+    "id": "62c60140058e6079efe7bb43",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/bih.svg",
+    "name": "Bosnia and Herzegovina",
+    "nativeName": "Bosna i Hercegovina",
+    "numericCode": "070",
+    "languages": [
+      {
+        "iso6391": "hr",
+        "name": "Croatian",
+        "nativeName": "hrvatski jezik",
+        "iso6392": "hrv"
+      },
+      {
+        "iso6391": "bs",
+        "name": "Bosnian",
+        "nativeName": "bosanski jezik",
+        "iso6392": "bos"
+      },
+      {
+        "iso6391": "sr",
+        "name": "Serbian",
+        "nativeName": "српски језик",
+        "iso6392": "srp"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "BW",
+    "alpha3Code": "BWA",
+    "callingCodes": [
+      "267"
+    ],
+    "id": "62c6002d058e6079efe7ba86",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/bwa.svg",
+    "name": "Botswana",
+    "nativeName": "Botswana",
+    "numericCode": "072",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      },
+      {
+        "iso6391": "tn",
+        "name": "Tswana",
+        "nativeName": "Setswana",
+        "iso6392": "tsn"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "BV",
+    "alpha3Code": "BVT",
+    "callingCodes": [
+      ""
+    ],
+    "id": "62c60035058e6079efe7ba8c",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/bvt.svg",
+    "name": "Bouvet Island",
+    "nativeName": "Bouvetøya",
+    "numericCode": "074",
+    "languages": [
+      {
+        "iso6391": "no",
+        "name": "Norwegian",
+        "nativeName": "Norsk",
+        "iso6392": "nor"
+      },
+      {
+        "iso6391": "nb",
+        "name": "Norwegian Bokmål",
+        "nativeName": "Norsk bokmål",
+        "iso6392": "nob"
+      },
+      {
+        "iso6391": "nn",
+        "name": "Norwegian Nynorsk",
+        "nativeName": "Norsk nynorsk",
+        "iso6392": "nno"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "BR",
+    "alpha3Code": "BRA",
+    "callingCodes": [
+      "55"
+    ],
+    "id": "62c6002e058e6079efe7ba87",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/bra.svg",
+    "name": "Brazil",
+    "nativeName": "Brasil",
+    "numericCode": "076",
+    "languages": [
+      {
+        "iso6391": "pt",
+        "name": "Portuguese",
+        "nativeName": "Português",
+        "iso6392": "por"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "IO",
+    "alpha3Code": "IOT",
+    "callingCodes": [
+      "246"
+    ],
+    "id": "62c60030058e6079efe7ba88",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/iot.svg",
+    "name": "British Indian Ocean Territory",
+    "nativeName": "British Indian Ocean Territory",
+    "numericCode": "086",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "BN",
+    "alpha3Code": "BRN",
+    "callingCodes": [
+      "673"
+    ],
+    "id": "62c60037058e6079efe7ba8d",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/brn.svg",
+    "name": "Brunei Darussalam",
+    "nativeName": "Negara Brunei Darussalam",
+    "numericCode": "096",
+    "languages": [
+      {
+        "iso6391": "ms",
+        "name": "Malay",
+        "nativeName": "bahasa Melayu",
+        "iso6392": "msa"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "BG",
+    "alpha3Code": "BGR",
+    "callingCodes": [
+      "359"
+    ],
+    "id": "62c60038058e6079efe7ba8e",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/bgr.svg",
+    "name": "Bulgaria",
+    "nativeName": "България",
+    "numericCode": "100",
+    "languages": [
+      {
+        "iso6391": "bg",
+        "name": "Bulgarian",
+        "nativeName": "български език",
+        "iso6392": "bul"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "BF",
+    "alpha3Code": "BFA",
+    "callingCodes": [
+      "226"
+    ],
+    "id": "62c6003a058e6079efe7ba8f",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/bfa.svg",
+    "name": "Burkina Faso",
+    "nativeName": "Burkina Faso",
+    "numericCode": "854",
+    "languages": [
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      },
+      {
+        "iso6391": "ff",
+        "name": "Fula",
+        "nativeName": "Fulfulde",
+        "iso6392": "ful"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "BI",
+    "alpha3Code": "BDI",
+    "callingCodes": [
+      "257"
+    ],
+    "id": "62c6003f058e6079efe7ba93",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/bdi.svg",
+    "name": "Burundi",
+    "nativeName": "Burundi",
+    "numericCode": "108",
+    "languages": [
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      },
+      {
+        "iso6391": "rn",
+        "name": "Kirundi",
+        "nativeName": "Ikirundi",
+        "iso6392": "run"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "CV",
+    "alpha3Code": "CPV",
+    "callingCodes": [
+      "238"
+    ],
+    "id": "62c60042058e6079efe7ba95",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/cpv.svg",
+    "name": "Cabo Verde",
+    "nativeName": "Cabo Verde",
+    "numericCode": "132",
+    "languages": [
+      {
+        "iso6391": "pt",
+        "name": "Portuguese",
+        "nativeName": "Português",
+        "iso6392": "por"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "KH",
+    "alpha3Code": "KHM",
+    "callingCodes": [
+      "855"
+    ],
+    "id": "62c6003b058e6079efe7ba90",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/khm.svg",
+    "name": "Cambodia",
+    "nativeName": "Kâmpŭchéa",
+    "numericCode": "116",
+    "languages": [
+      {
+        "iso6391": "km",
+        "name": "Khmer",
+        "nativeName": "ខ្មែរ",
+        "iso6392": "khm"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "CM",
+    "alpha3Code": "CMR",
+    "callingCodes": [
+      "237"
+    ],
+    "id": "62c6003e058e6079efe7ba92",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/cmr.svg",
+    "name": "Cameroon",
+    "nativeName": "Cameroon",
+    "numericCode": "120",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      },
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "CA",
+    "alpha3Code": "CAN",
+    "callingCodes": [
+      "1"
+    ],
+    "id": "62c60040058e6079efe7ba94",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/can.svg",
+    "name": "Canada",
+    "nativeName": "Canada",
+    "numericCode": "124",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      },
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "KY",
+    "alpha3Code": "CYM",
+    "callingCodes": [
+      "1345"
+    ],
+    "id": "62c60031058e6079efe7ba89",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/cym.svg",
+    "name": "Cayman Islands",
+    "nativeName": "Cayman Islands",
+    "numericCode": "136",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "CF",
+    "alpha3Code": "CAF",
+    "callingCodes": [
+      "236"
+    ],
+    "id": "62c60142058e6079efe7bb45",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/caf.svg",
+    "name": "Central African Republic",
+    "nativeName": "Ködörösêse tî Bêafrîka",
+    "numericCode": "140",
+    "languages": [
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      },
+      {
+        "iso6391": "sg",
+        "name": "Sango",
+        "nativeName": "yângâ tî sängö",
+        "iso6392": "sag"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "TD",
+    "alpha3Code": "TCD",
+    "callingCodes": [
+      "235"
+    ],
+    "id": "62c6004e058e6079efe7ba9e",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/tcd.svg",
+    "name": "Chad",
+    "nativeName": "Tchad",
+    "numericCode": "148",
+    "languages": [
+      {
+        "iso6391": "ar",
+        "name": "Arabic",
+        "nativeName": "العربية",
+        "iso6392": "ara"
+      },
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "CL",
+    "alpha3Code": "CHL",
+    "callingCodes": [
+      "56"
+    ],
+    "id": "62c60049058e6079efe7ba9a",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/chl.svg",
+    "name": "Chile",
+    "nativeName": "Chile",
+    "numericCode": "152",
+    "languages": [
+      {
+        "iso6391": "es",
+        "name": "Spanish",
+        "nativeName": "Español",
+        "iso6392": "spa"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "CN",
+    "alpha3Code": "CHN",
+    "callingCodes": [
+      "86"
+    ],
+    "id": "62c6004c058e6079efe7ba9c",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/chn.svg",
+    "name": "China",
+    "nativeName": "中国",
+    "numericCode": "156",
+    "languages": [
+      {
+        "iso6391": "zh",
+        "name": "Chinese",
+        "nativeName": "中文 (Zhōngwén)",
+        "iso6392": "zho"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "CX",
+    "alpha3Code": "CXR",
+    "callingCodes": [
+      "61"
+    ],
+    "id": "62c60043058e6079efe7ba96",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/cxr.svg",
+    "name": "Christmas Island",
+    "nativeName": "Christmas Island",
+    "numericCode": "162",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "CC",
+    "alpha3Code": "CCK",
+    "callingCodes": [
+      "61"
+    ],
+    "id": "62c60045058e6079efe7ba97",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/cck.svg",
+    "name": "Cocos (Keeling) Islands",
+    "nativeName": "Cocos (Keeling) Islands",
+    "numericCode": "166",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "CO",
+    "alpha3Code": "COL",
+    "callingCodes": [
+      "57"
+    ],
+    "id": "62c60046058e6079efe7ba98",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/col.svg",
+    "name": "Colombia",
+    "nativeName": "Colombia",
+    "numericCode": "170",
+    "languages": [
+      {
+        "iso6391": "es",
+        "name": "Spanish",
+        "nativeName": "Español",
+        "iso6392": "spa"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "KM",
+    "alpha3Code": "COM",
+    "callingCodes": [
+      "269"
+    ],
+    "id": "62c60047058e6079efe7ba99",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/com.svg",
+    "name": "Comoros",
+    "nativeName": "Komori",
+    "numericCode": "174",
+    "languages": [
+      {
+        "iso6391": "ar",
+        "name": "Arabic",
+        "nativeName": "العربية",
+        "iso6392": "ara"
+      },
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "CG",
+    "alpha3Code": "COG",
+    "callingCodes": [
+      "242"
+    ],
+    "id": "62c6004a058e6079efe7ba9b",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/cog.svg",
+    "name": "Congo",
+    "nativeName": "République du Congo",
+    "numericCode": "178",
+    "languages": [
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      },
+      {
+        "iso6391": "ln",
+        "name": "Lingala",
+        "nativeName": "Lingála",
+        "iso6392": "lin"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "CD",
+    "alpha3Code": "COD",
+    "callingCodes": [
+      "243"
+    ],
+    "id": "62c60302160ecf9ca97aad7d",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/cod.svg",
+    "name": "Congo (Democratic Republic of the)",
+    "nativeName": "République démocratique du Congo",
+    "numericCode": "180",
+    "languages": [
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      },
+      {
+        "iso6391": "ln",
+        "name": "Lingala",
+        "nativeName": "Lingála",
+        "iso6392": "lin"
+      },
+      {
+        "iso6391": "sw",
+        "name": "Swahili",
+        "nativeName": "Kiswahili",
+        "iso6392": "swa"
+      },
+      {
+        "iso6391": "kg",
+        "name": "Kongo",
+        "nativeName": "Kikongo",
+        "iso6392": "kon"
+      },
+      {
+        "iso6391": "lu",
+        "name": "Luba-Katanga",
+        "nativeName": "Tshiluba",
+        "iso6392": "lub"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "CK",
+    "alpha3Code": "COK",
+    "callingCodes": [
+      "682"
+    ],
+    "id": "62c6004d058e6079efe7ba9d",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/cok.svg",
+    "name": "Cook Islands",
+    "nativeName": "Cook Islands",
+    "numericCode": "184",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "CR",
+    "alpha3Code": "CRI",
+    "callingCodes": [
+      "506"
+    ],
+    "id": "62c60145058e6079efe7bb47",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/cri.svg",
+    "name": "Costa Rica",
+    "nativeName": "Costa Rica",
+    "numericCode": "188",
+    "languages": [
+      {
+        "iso6391": "es",
+        "name": "Spanish",
+        "nativeName": "Español",
+        "iso6392": "spa"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "HR",
+    "alpha3Code": "HRV",
+    "callingCodes": [
+      "385"
+    ],
+    "id": "62c60054058e6079efe7baa2",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/hrv.svg",
+    "name": "Croatia",
+    "nativeName": "Hrvatska",
+    "numericCode": "191",
+    "languages": [
+      {
+        "iso6391": "hr",
+        "name": "Croatian",
+        "nativeName": "hrvatski jezik",
+        "iso6392": "hrv"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "CU",
+    "alpha3Code": "CUB",
+    "callingCodes": [
+      "53"
+    ],
+    "id": "62c60057058e6079efe7baa4",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/cub.svg",
+    "name": "Cuba",
+    "nativeName": "Cuba",
+    "numericCode": "192",
+    "languages": [
+      {
+        "iso6391": "es",
+        "name": "Spanish",
+        "nativeName": "Español",
+        "iso6392": "spa"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "CW",
+    "alpha3Code": "CUW",
+    "callingCodes": [
+      "599"
+    ],
+    "id": "62c60050058e6079efe7ba9f",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/cuw.svg",
+    "name": "Curaçao",
+    "nativeName": "Curaçao",
+    "numericCode": "531",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      },
+      {
+        "iso6391": "nl",
+        "name": "Dutch",
+        "nativeName": "Nederlands",
+        "iso6392": "nld"
+      },
+      {
+        "iso6391": "pa",
+        "name": "(Eastern) Punjabi",
+        "nativeName": "ਪੰਜਾਬੀ",
+        "iso6392": "pan"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "CY",
+    "alpha3Code": "CYP",
+    "callingCodes": [
+      "357"
+    ],
+    "id": "62c60051058e6079efe7baa0",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/cyp.svg",
+    "name": "Cyprus",
+    "nativeName": "Κύπρος",
+    "numericCode": "196",
+    "languages": [
+      {
+        "iso6391": "hy",
+        "name": "Armenian",
+        "nativeName": "Հայերեն",
+        "iso6392": "hye"
+      },
+      {
+        "iso6391": "el",
+        "name": "Greek (modern)",
+        "nativeName": "ελληνικά",
+        "iso6392": "ell"
+      },
+      {
+        "iso6391": "tr",
+        "name": "Turkish",
+        "nativeName": "Türkçe",
+        "iso6392": "tur"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "CZ",
+    "alpha3Code": "CZE",
+    "callingCodes": [
+      "420"
+    ],
+    "id": "62c60053058e6079efe7baa1",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/cze.svg",
+    "name": "Czech Republic",
+    "nativeName": "Česká republika",
+    "numericCode": "203",
+    "languages": [
+      {
+        "iso6391": "cs",
+        "name": "Czech",
+        "nativeName": "čeština",
+        "iso6392": "ces"
+      },
+      {
+        "iso6391": "sk",
+        "name": "Slovak",
+        "nativeName": "slovenčina",
+        "iso6392": "slk"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "CI",
+    "alpha3Code": "CIV",
+    "callingCodes": [
+      "225"
+    ],
+    "id": "62c60086058e6079efe7bac6",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/civ.svg",
+    "name": "Côte d'Ivoire",
+    "nativeName": "Côte d'Ivoire",
+    "numericCode": "384",
+    "languages": [
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "DK",
+    "alpha3Code": "DNK",
+    "callingCodes": [
+      "45"
+    ],
+    "id": "62c60055058e6079efe7baa3",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/dnk.svg",
+    "name": "Denmark",
+    "nativeName": "Danmark",
+    "numericCode": "208",
+    "languages": [
+      {
+        "iso6391": "da",
+        "name": "Danish",
+        "nativeName": "dansk",
+        "iso6392": "dan"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "DJ",
+    "alpha3Code": "DJI",
+    "callingCodes": [
+      "253"
+    ],
+    "id": "62c60058058e6079efe7baa5",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/dji.svg",
+    "name": "Djibouti",
+    "nativeName": "Djibouti",
+    "numericCode": "262",
+    "languages": [
+      {
+        "iso6391": "ar",
+        "name": "Arabic",
+        "nativeName": "العربية",
+        "iso6392": "ara"
+      },
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "DM",
+    "alpha3Code": "DMA",
+    "callingCodes": [
+      "1767"
+    ],
+    "id": "62c6005a058e6079efe7baa6",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/dma.svg",
+    "name": "Dominica",
+    "nativeName": "Dominica",
+    "numericCode": "212",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "DO",
+    "alpha3Code": "DOM",
+    "callingCodes": [
+      "1809",
+      "1829",
+      "1849"
+    ],
+    "id": "62c6005b058e6079efe7baa7",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/dom.svg",
+    "name": "Dominican Republic",
+    "nativeName": "República Dominicana",
+    "numericCode": "214",
+    "languages": [
+      {
+        "iso6391": "es",
+        "name": "Spanish",
+        "nativeName": "Español",
+        "iso6392": "spa"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "EC",
+    "alpha3Code": "ECU",
+    "callingCodes": [
+      "593"
+    ],
+    "id": "62c6005c058e6079efe7baa8",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/ecu.svg",
+    "name": "Ecuador",
+    "nativeName": "Ecuador",
+    "numericCode": "218",
+    "languages": [
+      {
+        "iso6391": "es",
+        "name": "Spanish",
+        "nativeName": "Español",
+        "iso6392": "spa"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "EG",
+    "alpha3Code": "EGY",
+    "callingCodes": [
+      "20"
+    ],
+    "id": "62c60146058e6079efe7bb48",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/egy.svg",
+    "name": "Egypt",
+    "nativeName": "مصر‎",
+    "numericCode": "818",
+    "languages": [
+      {
+        "iso6391": "ar",
+        "name": "Arabic",
+        "nativeName": "العربية",
+        "iso6392": "ara"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "SV",
+    "alpha3Code": "SLV",
+    "callingCodes": [
+      "503"
+    ],
+    "id": "62c60304160ecf9ca97aad7e",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/slv.svg",
+    "name": "El Salvador",
+    "nativeName": "El Salvador",
+    "numericCode": "222",
+    "languages": [
+      {
+        "iso6391": "es",
+        "name": "Spanish",
+        "nativeName": "Español",
+        "iso6392": "spa"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "GQ",
+    "alpha3Code": "GNQ",
+    "callingCodes": [
+      "240"
+    ],
+    "id": "62c60065058e6079efe7baae",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/gnq.svg",
+    "name": "Equatorial Guinea",
+    "nativeName": "Guinea Ecuatorial",
+    "numericCode": "226",
+    "languages": [
+      {
+        "iso6391": "es",
+        "name": "Spanish",
+        "nativeName": "Español",
+        "iso6392": "spa"
+      },
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "ER",
+    "alpha3Code": "ERI",
+    "callingCodes": [
+      "291"
+    ],
+    "id": "62c6005e058e6079efe7baa9",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/eri.svg",
+    "name": "Eritrea",
+    "nativeName": "ኤርትራ",
+    "numericCode": "232",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      },
+      {
+        "iso6391": "ar",
+        "name": "Arabic",
+        "nativeName": "العربية",
+        "iso6392": "ara"
+      },
+      {
+        "iso6391": "ti",
+        "name": "Tigrinya",
+        "nativeName": "ትግርኛ",
+        "iso6392": "tir"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "EE",
+    "alpha3Code": "EST",
+    "callingCodes": [
+      "372"
+    ],
+    "id": "62c6005f058e6079efe7baaa",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/est.svg",
+    "name": "Estonia",
+    "nativeName": "Eesti",
+    "numericCode": "233",
+    "languages": [
+      {
+        "iso6391": "et",
+        "name": "Estonian",
+        "nativeName": "eesti",
+        "iso6392": "est"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "ET",
+    "alpha3Code": "ETH",
+    "callingCodes": [
+      "251"
+    ],
+    "id": "62c60060058e6079efe7baab",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/eth.svg",
+    "name": "Ethiopia",
+    "nativeName": "ኢትዮጵያ",
+    "numericCode": "231",
+    "languages": [
+      {
+        "iso6391": "am",
+        "name": "Amharic",
+        "nativeName": "አማርኛ",
+        "iso6392": "amh"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "FK",
+    "alpha3Code": "FLK",
+    "callingCodes": [
+      "500"
+    ],
+    "id": "62c60062058e6079efe7baac",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/flk.svg",
+    "name": "Falkland Islands (Malvinas)",
+    "nativeName": "Falkland Islands",
+    "numericCode": "238",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "FO",
+    "alpha3Code": "FRO",
+    "callingCodes": [
+      "298"
+    ],
+    "id": "62c60063058e6079efe7baad",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/fro.svg",
+    "name": "Faroe Islands",
+    "nativeName": "Føroyar",
+    "numericCode": "234",
+    "languages": [
+      {
+        "iso6391": "fo",
+        "name": "Faroese",
+        "nativeName": "føroyskt",
+        "iso6392": "fao"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "FJ",
+    "alpha3Code": "FJI",
+    "callingCodes": [
+      "679"
+    ],
+    "id": "62c60066058e6079efe7baaf",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/fji.svg",
+    "name": "Fiji",
+    "nativeName": "Fiji",
+    "numericCode": "242",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      },
+      {
+        "iso6391": "fj",
+        "name": "Fijian",
+        "nativeName": "vosa Vakaviti",
+        "iso6392": "fij"
+      },
+      {
+        "iso6391": "hi",
+        "name": "Hindi",
+        "nativeName": "हिन्दी",
+        "iso6392": "hin"
+      },
+      {
+        "iso6391": "ur",
+        "name": "Urdu",
+        "nativeName": "اردو",
+        "iso6392": "urd"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "FI",
+    "alpha3Code": "FIN",
+    "callingCodes": [
+      "358"
+    ],
+    "id": "62c60067058e6079efe7bab0",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/fin.svg",
+    "name": "Finland",
+    "nativeName": "Suomi",
+    "numericCode": "246",
+    "languages": [
+      {
+        "iso6391": "sv",
+        "name": "Swedish",
+        "nativeName": "svenska",
+        "iso6392": "swe"
+      },
+      {
+        "iso6391": "fi",
+        "name": "Finnish",
+        "nativeName": "suomi",
+        "iso6392": "fin"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "FR",
+    "alpha3Code": "FRA",
+    "callingCodes": [
+      "33"
+    ],
+    "id": "62c60148058e6079efe7bb49",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/fra.svg",
+    "name": "France",
+    "nativeName": "France",
+    "numericCode": "250",
+    "languages": [
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "GF",
+    "alpha3Code": "GUF",
+    "callingCodes": [
+      "594"
+    ],
+    "id": "62c60070058e6079efe7bab6",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/guf.svg",
+    "name": "French Guiana",
+    "nativeName": "Guyane française",
+    "numericCode": "254",
+    "languages": [
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "PF",
+    "alpha3Code": "PYF",
+    "callingCodes": [
+      "689"
+    ],
+    "id": "62c60305160ecf9ca97aad7f",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/pyf.svg",
+    "name": "French Polynesia",
+    "nativeName": "Polynésie française",
+    "numericCode": "258",
+    "languages": [
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "TF",
+    "alpha3Code": "ATF",
+    "callingCodes": [
+      ""
+    ],
+    "id": "62c6006a058e6079efe7bab2",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/atf.svg",
+    "name": "French Southern Territories",
+    "nativeName": "Territoire des Terres australes et antarctiques françaises",
+    "numericCode": "260",
+    "languages": [
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "GA",
+    "alpha3Code": "GAB",
+    "callingCodes": [
+      "241"
+    ],
+    "id": "62c6006c058e6079efe7bab3",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/gab.svg",
+    "name": "Gabon",
+    "nativeName": "Gabon",
+    "numericCode": "266",
+    "languages": [
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "GM",
+    "alpha3Code": "GMB",
+    "callingCodes": [
+      "220"
+    ],
+    "id": "62c60073058e6079efe7bab8",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/gmb.svg",
+    "name": "Gambia",
+    "nativeName": "Gambia",
+    "numericCode": "270",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "GE",
+    "alpha3Code": "GEO",
+    "callingCodes": [
+      "995"
+    ],
+    "id": "62c6006d058e6079efe7bab4",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/geo.svg",
+    "name": "Georgia",
+    "nativeName": "საქართველო",
+    "numericCode": "268",
+    "languages": [
+      {
+        "iso6391": "ka",
+        "name": "Georgian",
+        "nativeName": "ქართული",
+        "iso6392": "kat"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "DE",
+    "alpha3Code": "DEU",
+    "callingCodes": [
+      "49"
+    ],
+    "id": "62c6006e058e6079efe7bab5",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/deu.svg",
+    "name": "Germany",
+    "nativeName": "Deutschland",
+    "numericCode": "276",
+    "languages": [
+      {
+        "iso6391": "de",
+        "name": "German",
+        "nativeName": "Deutsch",
+        "iso6392": "deu"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "GH",
+    "alpha3Code": "GHA",
+    "callingCodes": [
+      "233"
+    ],
+    "id": "62c60071058e6079efe7bab7",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/gha.svg",
+    "name": "Ghana",
+    "nativeName": "Ghana",
+    "numericCode": "288",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "GI",
+    "alpha3Code": "GIB",
+    "callingCodes": [
+      "350"
+    ],
+    "id": "62c60074058e6079efe7bab9",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/gib.svg",
+    "name": "Gibraltar",
+    "nativeName": "Gibraltar",
+    "numericCode": "292",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "GR",
+    "alpha3Code": "GRC",
+    "callingCodes": [
+      "30"
+    ],
+    "id": "62c60075058e6079efe7baba",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/grc.svg",
+    "name": "Greece",
+    "nativeName": "Ελλάδα",
+    "numericCode": "300",
+    "languages": [
+      {
+        "iso6391": "el",
+        "name": "Greek (modern)",
+        "nativeName": "ελληνικά",
+        "iso6392": "ell"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "GL",
+    "alpha3Code": "GRL",
+    "callingCodes": [
+      "299"
+    ],
+    "id": "62c60069058e6079efe7bab1",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/grl.svg",
+    "name": "Greenland",
+    "nativeName": "Kalaallit Nunaat",
+    "numericCode": "304",
+    "languages": [
+      {
+        "iso6391": "kl",
+        "name": "Kalaallisut",
+        "nativeName": "kalaallisut",
+        "iso6392": "kal"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "GD",
+    "alpha3Code": "GRD",
+    "callingCodes": [
+      "1473"
+    ],
+    "id": "62c6014a058e6079efe7bb4a",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/grd.svg",
+    "name": "Grenada",
+    "nativeName": "Grenada",
+    "numericCode": "308",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "GP",
+    "alpha3Code": "GLP",
+    "callingCodes": [
+      "590"
+    ],
+    "id": "62c6007c058e6079efe7babf",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/glp.svg",
+    "name": "Guadeloupe",
+    "nativeName": "Guadeloupe",
+    "numericCode": "312",
+    "languages": [
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "GU",
+    "alpha3Code": "GUM",
+    "callingCodes": [
+      "1671"
+    ],
+    "id": "62c6007f058e6079efe7bac1",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/gum.svg",
+    "name": "Guam",
+    "nativeName": "Guam",
+    "numericCode": "316",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      },
+      {
+        "iso6391": "es",
+        "name": "Spanish",
+        "nativeName": "Español",
+        "iso6392": "spa"
+      },
+      {
+        "iso6391": "ch",
+        "name": "Chamorro",
+        "nativeName": "Chamoru",
+        "iso6392": "cha"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "GT",
+    "alpha3Code": "GTM",
+    "callingCodes": [
+      "502"
+    ],
+    "id": "62c60077058e6079efe7babb",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/gtm.svg",
+    "name": "Guatemala",
+    "nativeName": "Guatemala",
+    "numericCode": "320",
+    "languages": [
+      {
+        "iso6391": "es",
+        "name": "Spanish",
+        "nativeName": "Español",
+        "iso6392": "spa"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "GG",
+    "alpha3Code": "GGY",
+    "callingCodes": [
+      "44"
+    ],
+    "id": "62c60078058e6079efe7babc",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/ggy.svg",
+    "name": "Guernsey",
+    "nativeName": "Guernsey",
+    "numericCode": "831",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      },
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "GN",
+    "alpha3Code": "GIN",
+    "callingCodes": [
+      "224"
+    ],
+    "id": "62c60079058e6079efe7babd",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/gin.svg",
+    "name": "Guinea",
+    "nativeName": "Guinée",
+    "numericCode": "324",
+    "languages": [
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      },
+      {
+        "iso6391": "ff",
+        "name": "Fula",
+        "nativeName": "Fulfulde",
+        "iso6392": "ful"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "GW",
+    "alpha3Code": "GNB",
+    "callingCodes": [
+      "245"
+    ],
+    "id": "62c6014b058e6079efe7bb4b",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/gnb.svg",
+    "name": "Guinea-Bissau",
+    "nativeName": "Guiné-Bissau",
+    "numericCode": "624",
+    "languages": [
+      {
+        "iso6391": "pt",
+        "name": "Portuguese",
+        "nativeName": "Português",
+        "iso6392": "por"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "GY",
+    "alpha3Code": "GUY",
+    "callingCodes": [
+      "592"
+    ],
+    "id": "62c6007b058e6079efe7babe",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/guy.svg",
+    "name": "Guyana",
+    "nativeName": "Guyana",
+    "numericCode": "328",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "HT",
+    "alpha3Code": "HTI",
+    "callingCodes": [
+      "509"
+    ],
+    "id": "62c6007d058e6079efe7bac0",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/hti.svg",
+    "name": "Haiti",
+    "nativeName": "Haïti",
+    "numericCode": "332",
+    "languages": [
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      },
+      {
+        "iso6391": "ht",
+        "name": "Haitian",
+        "nativeName": "Kreyòl ayisyen",
+        "iso6392": "hat"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "HM",
+    "alpha3Code": "HMD",
+    "callingCodes": [
+      ""
+    ],
+    "id": "62c60080058e6079efe7bac2",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/hmd.svg",
+    "name": "Heard Island and McDonald Islands",
+    "nativeName": "Heard Island and McDonald Islands",
+    "numericCode": "334",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "VA",
+    "alpha3Code": "VAT",
+    "callingCodes": [
+      "379"
+    ],
+    "id": "62c60082058e6079efe7bac3",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/vat.svg",
+    "name": "Holy See",
+    "nativeName": "Sancta Sedes",
+    "numericCode": "336",
+    "languages": [
+      {
+        "iso6391": "de",
+        "name": "German",
+        "nativeName": "Deutsch",
+        "iso6392": "deu"
+      },
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      },
+      {
+        "iso6391": "la",
+        "name": "Latin",
+        "nativeName": "latine",
+        "iso6392": "lat"
+      },
+      {
+        "iso6391": "it",
+        "name": "Italian",
+        "nativeName": "Italiano",
+        "iso6392": "ita"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "HN",
+    "alpha3Code": "HND",
+    "callingCodes": [
+      "504"
+    ],
+    "id": "62c60083058e6079efe7bac4",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/hnd.svg",
+    "name": "Honduras",
+    "nativeName": "Honduras",
+    "numericCode": "340",
+    "languages": [
+      {
+        "iso6391": "es",
+        "name": "Spanish",
+        "nativeName": "Español",
+        "iso6392": "spa"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "HK",
+    "alpha3Code": "HKG",
+    "callingCodes": [
+      "852"
+    ],
+    "id": "62c6014c058e6079efe7bb4c",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/hkg.svg",
+    "name": "Hong Kong",
+    "nativeName": "香港",
+    "numericCode": "344",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      },
+      {
+        "iso6391": "zh",
+        "name": "Chinese",
+        "nativeName": "中文 (Zhōngwén)",
+        "iso6392": "zho"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "HU",
+    "alpha3Code": "HUN",
+    "callingCodes": [
+      "36"
+    ],
+    "id": "62c6008a058e6079efe7bac9",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/hun.svg",
+    "name": "Hungary",
+    "nativeName": "Magyarország",
+    "numericCode": "348",
+    "languages": [
+      {
+        "iso6391": "hu",
+        "name": "Hungarian",
+        "nativeName": "magyar",
+        "iso6392": "hun"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "IS",
+    "alpha3Code": "ISL",
+    "callingCodes": [
+      "354"
+    ],
+    "id": "62c6008d058e6079efe7bacb",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/isl.svg",
+    "name": "Iceland",
+    "nativeName": "Ísland",
+    "numericCode": "352",
+    "languages": [
+      {
+        "iso6391": "is",
+        "name": "Icelandic",
+        "nativeName": "Íslenska",
+        "iso6392": "isl"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "IN",
+    "alpha3Code": "IND",
+    "callingCodes": [
+      "91"
+    ],
+    "id": "62c60084058e6079efe7bac5",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/ind.svg",
+    "name": "India",
+    "nativeName": "भारत",
+    "numericCode": "356",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      },
+      {
+        "iso6391": "hi",
+        "name": "Hindi",
+        "nativeName": "हिन्दी",
+        "iso6392": "hin"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "ID",
+    "alpha3Code": "IDN",
+    "callingCodes": [
+      "62"
+    ],
+    "id": "62c6014e058e6079efe7bb4d",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/idn.svg",
+    "name": "Indonesia",
+    "nativeName": "Indonesia",
+    "numericCode": "360",
+    "languages": [
+      {
+        "iso6391": "id",
+        "name": "Indonesian",
+        "nativeName": "Bahasa Indonesia",
+        "iso6392": "ind"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "IR",
+    "alpha3Code": "IRN",
+    "callingCodes": [
+      "98"
+    ],
+    "id": "62c60087058e6079efe7bac7",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/irn.svg",
+    "name": "Iran (Islamic Republic of)",
+    "nativeName": "ایران",
+    "numericCode": "364",
+    "languages": [
+      {
+        "iso6391": "fa",
+        "name": "Persian (Farsi)",
+        "nativeName": "فارسی",
+        "iso6392": "fas"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "IQ",
+    "alpha3Code": "IRQ",
+    "callingCodes": [
+      "964"
+    ],
+    "id": "62c60088058e6079efe7bac8",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/irq.svg",
+    "name": "Iraq",
+    "nativeName": "العراق",
+    "numericCode": "368",
+    "languages": [
+      {
+        "iso6391": "ar",
+        "name": "Arabic",
+        "nativeName": "العربية",
+        "iso6392": "ara"
+      },
+      {
+        "iso6391": "ku",
+        "name": "Kurdish",
+        "nativeName": "Kurdî",
+        "iso6392": "kur"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "IE",
+    "alpha3Code": "IRL",
+    "callingCodes": [
+      "353"
+    ],
+    "id": "62c6008b058e6079efe7baca",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/irl.svg",
+    "name": "Ireland",
+    "nativeName": "Éire",
+    "numericCode": "372",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      },
+      {
+        "iso6391": "ga",
+        "name": "Irish",
+        "nativeName": "Gaeilge",
+        "iso6392": "gle"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "IM",
+    "alpha3Code": "IMN",
+    "callingCodes": [
+      "44"
+    ],
+    "id": "62c6008e058e6079efe7bacc",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/imn.svg",
+    "name": "Isle of Man",
+    "nativeName": "Isle of Man",
+    "numericCode": "833",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      },
+      {
+        "iso6391": "gv",
+        "name": "Manx",
+        "nativeName": "Gaelg",
+        "iso6392": "glv"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "IL",
+    "alpha3Code": "ISR",
+    "callingCodes": [
+      "972"
+    ],
+    "id": "62c6008f058e6079efe7bacd",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/isr.svg",
+    "name": "Israel",
+    "nativeName": "יִשְׂרָאֵל",
+    "numericCode": "376",
+    "languages": [
+      {
+        "iso6391": "ar",
+        "name": "Arabic",
+        "nativeName": "العربية",
+        "iso6392": "ara"
+      },
+      {
+        "iso6391": "he",
+        "name": "Hebrew (modern)",
+        "nativeName": "עברית",
+        "iso6392": "heb"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "IT",
+    "alpha3Code": "ITA",
+    "callingCodes": [
+      "39"
+    ],
+    "id": "62c60091058e6079efe7bace",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/ita.svg",
+    "name": "Italy",
+    "nativeName": "Italia",
+    "numericCode": "380",
+    "languages": [
+      {
+        "iso6391": "it",
+        "name": "Italian",
+        "nativeName": "Italiano",
+        "iso6392": "ita"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "JM",
+    "alpha3Code": "JAM",
+    "callingCodes": [
+      "1876"
+    ],
+    "id": "62c60150058e6079efe7bb4e",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/jam.svg",
+    "name": "Jamaica",
+    "nativeName": "Jamaica",
+    "numericCode": "388",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "JP",
+    "alpha3Code": "JPN",
+    "callingCodes": [
+      "81"
+    ],
+    "id": "62c6009f058e6079efe7bad8",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/jpn.svg",
+    "name": "Japan",
+    "nativeName": "日本",
+    "numericCode": "392",
+    "languages": [
+      {
+        "iso6391": "ja",
+        "name": "Japanese",
+        "nativeName": "日本語 (にほんご)",
+        "iso6392": "jpn"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "JE",
+    "alpha3Code": "JEY",
+    "callingCodes": [
+      "44"
+    ],
+    "id": "62c60152058e6079efe7bb4f",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/jey.svg",
+    "name": "Jersey",
+    "nativeName": "Jersey",
+    "numericCode": "832",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      },
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "JO",
+    "alpha3Code": "JOR",
+    "callingCodes": [
+      "962"
+    ],
+    "id": "62c6009c058e6079efe7bad6",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/jor.svg",
+    "name": "Jordan",
+    "nativeName": "الأردن",
+    "numericCode": "400",
+    "languages": [
+      {
+        "iso6391": "ar",
+        "name": "Arabic",
+        "nativeName": "العربية",
+        "iso6392": "ara"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "KZ",
+    "alpha3Code": "KAZ",
+    "callingCodes": [
+      "76",
+      "77"
+    ],
+    "id": "62c60094058e6079efe7bad0",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/kaz.svg",
+    "name": "Kazakhstan",
+    "nativeName": "Қазақстан",
+    "numericCode": "398",
+    "languages": [
+      {
+        "iso6391": "ru",
+        "name": "Russian",
+        "nativeName": "Русский",
+        "iso6392": "rus"
+      },
+      {
+        "iso6391": "kk",
+        "name": "Kazakh",
+        "nativeName": "қазақ тілі",
+        "iso6392": "kaz"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "KE",
+    "alpha3Code": "KEN",
+    "callingCodes": [
+      "254"
+    ],
+    "id": "62c60095058e6079efe7bad1",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/ken.svg",
+    "name": "Kenya",
+    "nativeName": "Kenya",
+    "numericCode": "404",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      },
+      {
+        "iso6391": "sw",
+        "name": "Swahili",
+        "nativeName": "Kiswahili",
+        "iso6392": "swa"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "KI",
+    "alpha3Code": "KIR",
+    "callingCodes": [
+      "686"
+    ],
+    "id": "62c60097058e6079efe7bad2",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/kir.svg",
+    "name": "Kiribati",
+    "nativeName": "Kiribati",
+    "numericCode": "296",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "KP",
+    "alpha3Code": "PRK",
+    "callingCodes": [
+      "850"
+    ],
+    "id": "62c6030a160ecf9ca97aad82",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/prk.svg",
+    "name": "Korea (Democratic People's Republic of)",
+    "nativeName": "북한",
+    "numericCode": "408",
+    "languages": [
+      {
+        "iso6391": "ko",
+        "name": "Korean",
+        "nativeName": "한국어",
+        "iso6392": "kor"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "KR",
+    "alpha3Code": "KOR",
+    "callingCodes": [
+      "82"
+    ],
+    "id": "62c60107058e6079efe7bb1d",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/kor.svg",
+    "name": "Korea (Republic of)",
+    "nativeName": "대한민국",
+    "numericCode": "410",
+    "languages": [
+      {
+        "iso6391": "ko",
+        "name": "Korean",
+        "nativeName": "한국어",
+        "iso6392": "kor"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "KW",
+    "alpha3Code": "KWT",
+    "callingCodes": [
+      "965"
+    ],
+    "id": "62c60098058e6079efe7bad3",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/kwt.svg",
+    "name": "Kuwait",
+    "nativeName": "الكويت",
+    "numericCode": "414",
+    "languages": [
+      {
+        "iso6391": "ar",
+        "name": "Arabic",
+        "nativeName": "العربية",
+        "iso6392": "ara"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "KG",
+    "alpha3Code": "KGZ",
+    "callingCodes": [
+      "996"
+    ],
+    "id": "62c60099058e6079efe7bad4",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/kgz.svg",
+    "name": "Kyrgyzstan",
+    "nativeName": "Кыргызстан",
+    "numericCode": "417",
+    "languages": [
+      {
+        "iso6391": "ru",
+        "name": "Russian",
+        "nativeName": "Русский",
+        "iso6392": "rus"
+      },
+      {
+        "iso6391": "ky",
+        "name": "Kyrgyz",
+        "nativeName": "Кыргызча",
+        "iso6392": "kir"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "LA",
+    "alpha3Code": "LAO",
+    "callingCodes": [
+      "856"
+    ],
+    "id": "62c6009b058e6079efe7bad5",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/lao.svg",
+    "name": "Lao People's Democratic Republic",
+    "nativeName": "ສປປລາວ",
+    "numericCode": "418",
+    "languages": [
+      {
+        "iso6391": "lo",
+        "name": "Lao",
+        "nativeName": "ພາສາລາວ",
+        "iso6392": "lao"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "LV",
+    "alpha3Code": "LVA",
+    "callingCodes": [
+      "371"
+    ],
+    "id": "62c6009e058e6079efe7bad7",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/lva.svg",
+    "name": "Latvia",
+    "nativeName": "Latvija",
+    "numericCode": "428",
+    "languages": [
+      {
+        "iso6391": "lv",
+        "name": "Latvian",
+        "nativeName": "latviešu valoda",
+        "iso6392": "lav"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "LB",
+    "alpha3Code": "LBN",
+    "callingCodes": [
+      "961"
+    ],
+    "id": "62c60153058e6079efe7bb50",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/lbn.svg",
+    "name": "Lebanon",
+    "nativeName": "لبنان",
+    "numericCode": "422",
+    "languages": [
+      {
+        "iso6391": "ar",
+        "name": "Arabic",
+        "nativeName": "العربية",
+        "iso6392": "ara"
+      },
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "LS",
+    "alpha3Code": "LSO",
+    "callingCodes": [
+      "266"
+    ],
+    "id": "62c600a7058e6079efe7bade",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/lso.svg",
+    "name": "Lesotho",
+    "nativeName": "Lesotho",
+    "numericCode": "426",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      },
+      {
+        "iso6391": "st",
+        "name": "Southern Sotho",
+        "nativeName": "Sesotho",
+        "iso6392": "sot"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "LR",
+    "alpha3Code": "LBR",
+    "callingCodes": [
+      "231"
+    ],
+    "id": "62c600aa058e6079efe7bae0",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/lbr.svg",
+    "name": "Liberia",
+    "nativeName": "Liberia",
+    "numericCode": "430",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "LY",
+    "alpha3Code": "LBY",
+    "callingCodes": [
+      "218"
+    ],
+    "id": "62c600a0058e6079efe7bad9",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/lby.svg",
+    "name": "Libya",
+    "nativeName": "‏ليبيا",
+    "numericCode": "434",
+    "languages": [
+      {
+        "iso6391": "ar",
+        "name": "Arabic",
+        "nativeName": "العربية",
+        "iso6392": "ara"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "LI",
+    "alpha3Code": "LIE",
+    "callingCodes": [
+      "423"
+    ],
+    "id": "62c600a2058e6079efe7bada",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/lie.svg",
+    "name": "Liechtenstein",
+    "nativeName": "Liechtenstein",
+    "numericCode": "438",
+    "languages": [
+      {
+        "iso6391": "de",
+        "name": "German",
+        "nativeName": "Deutsch",
+        "iso6392": "deu"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "LT",
+    "alpha3Code": "LTU",
+    "callingCodes": [
+      "370"
+    ],
+    "id": "62c600a3058e6079efe7badb",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/ltu.svg",
+    "name": "Lithuania",
+    "nativeName": "Lietuva",
+    "numericCode": "440",
+    "languages": [
+      {
+        "iso6391": "lt",
+        "name": "Lithuanian",
+        "nativeName": "lietuvių kalba",
+        "iso6392": "lit"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "LU",
+    "alpha3Code": "LUX",
+    "callingCodes": [
+      "352"
+    ],
+    "id": "62c600a5058e6079efe7badc",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/lux.svg",
+    "name": "Luxembourg",
+    "nativeName": "Luxembourg",
+    "numericCode": "442",
+    "languages": [
+      {
+        "iso6391": "de",
+        "name": "German",
+        "nativeName": "Deutsch",
+        "iso6392": "deu"
+      },
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      },
+      {
+        "iso6391": "lb",
+        "name": "Luxembourgish",
+        "nativeName": "Lëtzebuergesch",
+        "iso6392": "ltz"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "MO",
+    "alpha3Code": "MAC",
+    "callingCodes": [
+      "853"
+    ],
+    "id": "62c600a6058e6079efe7badd",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/mac.svg",
+    "name": "Macao",
+    "nativeName": "澳門",
+    "numericCode": "446",
+    "languages": [
+      {
+        "iso6391": "pt",
+        "name": "Portuguese",
+        "nativeName": "Português",
+        "iso6392": "por"
+      },
+      {
+        "iso6391": "zh",
+        "name": "Chinese",
+        "nativeName": "中文 (Zhōngwén)",
+        "iso6392": "zho"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "MK",
+    "alpha3Code": "MKD",
+    "callingCodes": [
+      "389"
+    ],
+    "id": "62c60307160ecf9ca97aad80",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/mkd.svg",
+    "name": "Macedonia (the former Yugoslav Republic of)",
+    "nativeName": "Македонија",
+    "numericCode": "807",
+    "languages": [
+      {
+        "iso6391": "mk",
+        "name": "Macedonian",
+        "nativeName": "македонски јазик",
+        "iso6392": "mkd"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "MG",
+    "alpha3Code": "MDG",
+    "callingCodes": [
+      "261"
+    ],
+    "id": "62c600a9058e6079efe7badf",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/mdg.svg",
+    "name": "Madagascar",
+    "nativeName": "Madagasikara",
+    "numericCode": "450",
+    "languages": [
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      },
+      {
+        "iso6391": "mg",
+        "name": "Malagasy",
+        "nativeName": "fiteny malagasy",
+        "iso6392": "mlg"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "MW",
+    "alpha3Code": "MWI",
+    "callingCodes": [
+      "265"
+    ],
+    "id": "62c600ac058e6079efe7bae1",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/mwi.svg",
+    "name": "Malawi",
+    "nativeName": "Malawi",
+    "numericCode": "454",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      },
+      {
+        "iso6391": "ny",
+        "name": "Chichewa",
+        "nativeName": "chiCheŵa",
+        "iso6392": "nya"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "MY",
+    "alpha3Code": "MYS",
+    "callingCodes": [
+      "60"
+    ],
+    "id": "62c60308160ecf9ca97aad81",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/mys.svg",
+    "name": "Malaysia",
+    "nativeName": "Malaysia",
+    "numericCode": "458",
+    "languages": [
+      {
+        "iso6391": null,
+        "name": "Malaysian",
+        "nativeName": "بهاس مليسيا",
+        "iso6392": "zsm"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "MV",
+    "alpha3Code": "MDV",
+    "callingCodes": [
+      "960"
+    ],
+    "id": "62c600b2058e6079efe7bae6",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/mdv.svg",
+    "name": "Maldives",
+    "nativeName": "Maldives",
+    "numericCode": "462",
+    "languages": [
+      {
+        "iso6391": "dv",
+        "name": "Divehi",
+        "nativeName": "ދިވެހި",
+        "iso6392": "div"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "ML",
+    "alpha3Code": "MLI",
+    "callingCodes": [
+      "223"
+    ],
+    "id": "62c600b5058e6079efe7bae8",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/mli.svg",
+    "name": "Mali",
+    "nativeName": "Mali",
+    "numericCode": "466",
+    "languages": [
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "MT",
+    "alpha3Code": "MLT",
+    "callingCodes": [
+      "356"
+    ],
+    "id": "62c600ad058e6079efe7bae2",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/mlt.svg",
+    "name": "Malta",
+    "nativeName": "Malta",
+    "numericCode": "470",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      },
+      {
+        "iso6391": "mt",
+        "name": "Maltese",
+        "nativeName": "Malti",
+        "iso6392": "mlt"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "MH",
+    "alpha3Code": "MHL",
+    "callingCodes": [
+      "692"
+    ],
+    "id": "62c60154058e6079efe7bb51",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/mhl.svg",
+    "name": "Marshall Islands",
+    "nativeName": "M̧ajeļ",
+    "numericCode": "584",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      },
+      {
+        "iso6391": "mh",
+        "name": "Marshallese",
+        "nativeName": "Kajin M̧ajeļ",
+        "iso6392": "mah"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "MQ",
+    "alpha3Code": "MTQ",
+    "callingCodes": [
+      "596"
+    ],
+    "id": "62c600ae058e6079efe7bae3",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/mtq.svg",
+    "name": "Martinique",
+    "nativeName": "Martinique",
+    "numericCode": "474",
+    "languages": [
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "MR",
+    "alpha3Code": "MRT",
+    "callingCodes": [
+      "222"
+    ],
+    "id": "62c600b0058e6079efe7bae4",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/mrt.svg",
+    "name": "Mauritania",
+    "nativeName": "موريتانيا",
+    "numericCode": "478",
+    "languages": [
+      {
+        "iso6391": "ar",
+        "name": "Arabic",
+        "nativeName": "العربية",
+        "iso6392": "ara"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "MU",
+    "alpha3Code": "MUS",
+    "callingCodes": [
+      "230"
+    ],
+    "id": "62c600b1058e6079efe7bae5",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/mus.svg",
+    "name": "Mauritius",
+    "nativeName": "Maurice",
+    "numericCode": "480",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "YT",
+    "alpha3Code": "MYT",
+    "callingCodes": [
+      "262"
+    ],
+    "id": "62c600b4058e6079efe7bae7",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/myt.svg",
+    "name": "Mayotte",
+    "nativeName": "Mayotte",
+    "numericCode": "175",
+    "languages": [
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "MX",
+    "alpha3Code": "MEX",
+    "callingCodes": [
+      "52"
+    ],
+    "id": "62c600b7058e6079efe7bae9",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/mex.svg",
+    "name": "Mexico",
+    "nativeName": "México",
+    "numericCode": "484",
+    "languages": [
+      {
+        "iso6391": "es",
+        "name": "Spanish",
+        "nativeName": "Español",
+        "iso6392": "spa"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "FM",
+    "alpha3Code": "FSM",
+    "callingCodes": [
+      "691"
+    ],
+    "id": "62c600b8058e6079efe7baea",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/fsm.svg",
+    "name": "Micronesia (Federated States of)",
+    "nativeName": "Micronesia",
+    "numericCode": "583",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "MD",
+    "alpha3Code": "MDA",
+    "callingCodes": [
+      "373"
+    ],
+    "id": "62c600b9058e6079efe7baeb",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/mda.svg",
+    "name": "Moldova (Republic of)",
+    "nativeName": "Moldova",
+    "numericCode": "498",
+    "languages": [
+      {
+        "iso6391": "ro",
+        "name": "Romanian",
+        "nativeName": "Română",
+        "iso6392": "ron"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "MC",
+    "alpha3Code": "MCO",
+    "callingCodes": [
+      "377"
+    ],
+    "id": "62c60156058e6079efe7bb52",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/mco.svg",
+    "name": "Monaco",
+    "nativeName": "Monaco",
+    "numericCode": "492",
+    "languages": [
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "MN",
+    "alpha3Code": "MNG",
+    "callingCodes": [
+      "976"
+    ],
+    "id": "62c600c0058e6079efe7baf0",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/mng.svg",
+    "name": "Mongolia",
+    "nativeName": "Монгол улс",
+    "numericCode": "496",
+    "languages": [
+      {
+        "iso6391": "mn",
+        "name": "Mongolian",
+        "nativeName": "Монгол хэл",
+        "iso6392": "mon"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "ME",
+    "alpha3Code": "MNE",
+    "callingCodes": [
+      "382"
+    ],
+    "id": "62c600c3058e6079efe7baf2",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/mne.svg",
+    "name": "Montenegro",
+    "nativeName": "Црна Гора",
+    "numericCode": "499",
+    "languages": [
+      {
+        "iso6391": "sq",
+        "name": "Albanian",
+        "nativeName": "Shqip",
+        "iso6392": "sqi"
+      },
+      {
+        "iso6391": "hr",
+        "name": "Croatian",
+        "nativeName": "hrvatski jezik",
+        "iso6392": "hrv"
+      },
+      {
+        "iso6391": "bs",
+        "name": "Bosnian",
+        "nativeName": "bosanski jezik",
+        "iso6392": "bos"
+      },
+      {
+        "iso6391": "sr",
+        "name": "Serbian",
+        "nativeName": "српски језик",
+        "iso6392": "srp"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "MS",
+    "alpha3Code": "MSR",
+    "callingCodes": [
+      "1664"
+    ],
+    "id": "62c600bb058e6079efe7baec",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/msr.svg",
+    "name": "Montserrat",
+    "nativeName": "Montserrat",
+    "numericCode": "500",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "MA",
+    "alpha3Code": "MAR",
+    "callingCodes": [
+      "212"
+    ],
+    "id": "62c600bc058e6079efe7baed",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/mar.svg",
+    "name": "Morocco",
+    "nativeName": "المغرب",
+    "numericCode": "504",
+    "languages": [
+      {
+        "iso6391": "ar",
+        "name": "Arabic",
+        "nativeName": "العربية",
+        "iso6392": "ara"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "MZ",
+    "alpha3Code": "MOZ",
+    "callingCodes": [
+      "258"
+    ],
+    "id": "62c60157058e6079efe7bb53",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/moz.svg",
+    "name": "Mozambique",
+    "nativeName": "Moçambique",
+    "numericCode": "508",
+    "languages": [
+      {
+        "iso6391": "pt",
+        "name": "Portuguese",
+        "nativeName": "Português",
+        "iso6392": "por"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "MM",
+    "alpha3Code": "MMR",
+    "callingCodes": [
+      "95"
+    ],
+    "id": "62c600be058e6079efe7baee",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/mmr.svg",
+    "name": "Myanmar",
+    "nativeName": "Myanma",
+    "numericCode": "104",
+    "languages": [
+      {
+        "iso6391": "my",
+        "name": "Burmese",
+        "nativeName": "ဗမာစာ",
+        "iso6392": "mya"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "NA",
+    "alpha3Code": "NAM",
+    "callingCodes": [
+      "264"
+    ],
+    "id": "62c600bf058e6079efe7baef",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/nam.svg",
+    "name": "Namibia",
+    "nativeName": "Namibia",
+    "numericCode": "516",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      },
+      {
+        "iso6391": "af",
+        "name": "Afrikaans",
+        "nativeName": "Afrikaans",
+        "iso6392": "afr"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "NR",
+    "alpha3Code": "NRU",
+    "callingCodes": [
+      "674"
+    ],
+    "id": "62c600c2058e6079efe7baf1",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/nru.svg",
+    "name": "Nauru",
+    "nativeName": "Nauru",
+    "numericCode": "520",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      },
+      {
+        "iso6391": "na",
+        "name": "Nauruan",
+        "nativeName": "Dorerin Naoero",
+        "iso6392": "nau"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "NP",
+    "alpha3Code": "NPL",
+    "callingCodes": [
+      "977"
+    ],
+    "id": "62c600c5058e6079efe7baf3",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/npl.svg",
+    "name": "Nepal",
+    "nativeName": "नेपाल",
+    "numericCode": "524",
+    "languages": [
+      {
+        "iso6391": "ne",
+        "name": "Nepali",
+        "nativeName": "नेपाली",
+        "iso6392": "nep"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "NL",
+    "alpha3Code": "NLD",
+    "callingCodes": [
+      "31"
+    ],
+    "id": "62c600c6058e6079efe7baf4",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/nld.svg",
+    "name": "Netherlands",
+    "nativeName": "Nederland",
+    "numericCode": "528",
+    "languages": [
+      {
+        "iso6391": "nl",
+        "name": "Dutch",
+        "nativeName": "Nederlands",
+        "iso6392": "nld"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "NC",
+    "alpha3Code": "NCL",
+    "callingCodes": [
+      "687"
+    ],
+    "id": "62c600c7058e6079efe7baf5",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/ncl.svg",
+    "name": "New Caledonia",
+    "nativeName": "Nouvelle-Calédonie",
+    "numericCode": "540",
+    "languages": [
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "NZ",
+    "alpha3Code": "NZL",
+    "callingCodes": [
+      "64"
+    ],
+    "id": "62c60159058e6079efe7bb54",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/nzl.svg",
+    "name": "New Zealand",
+    "nativeName": "New Zealand",
+    "numericCode": "554",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      },
+      {
+        "iso6391": "mi",
+        "name": "Māori",
+        "nativeName": "te reo Māori",
+        "iso6392": "mri"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "NI",
+    "alpha3Code": "NIC",
+    "callingCodes": [
+      "505"
+    ],
+    "id": "62c600d1058e6079efe7bafc",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/nic.svg",
+    "name": "Nicaragua",
+    "nativeName": "Nicaragua",
+    "numericCode": "558",
+    "languages": [
+      {
+        "iso6391": "es",
+        "name": "Spanish",
+        "nativeName": "Español",
+        "iso6392": "spa"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "NE",
+    "alpha3Code": "NER",
+    "callingCodes": [
+      "227"
+    ],
+    "id": "62c600cf058e6079efe7bafa",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/ner.svg",
+    "name": "Niger",
+    "nativeName": "Niger",
+    "numericCode": "562",
+    "languages": [
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "NG",
+    "alpha3Code": "NGA",
+    "callingCodes": [
+      "234"
+    ],
+    "id": "62c600c9058e6079efe7baf6",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/nga.svg",
+    "name": "Nigeria",
+    "nativeName": "Nigeria",
+    "numericCode": "566",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "NU",
+    "alpha3Code": "NIU",
+    "callingCodes": [
+      "683"
+    ],
+    "id": "62c600ca058e6079efe7baf7",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/niu.svg",
+    "name": "Niue",
+    "nativeName": "Niuē",
+    "numericCode": "570",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "NF",
+    "alpha3Code": "NFK",
+    "callingCodes": [
+      "672"
+    ],
+    "id": "62c600cc058e6079efe7baf8",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/nfk.svg",
+    "name": "Norfolk Island",
+    "nativeName": "Norfolk Island",
+    "numericCode": "574",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "MP",
+    "alpha3Code": "MNP",
+    "callingCodes": [
+      "1670"
+    ],
+    "id": "62c600cd058e6079efe7baf9",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/mnp.svg",
+    "name": "Northern Mariana Islands",
+    "nativeName": "Northern Mariana Islands",
+    "numericCode": "580",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      },
+      {
+        "iso6391": "ch",
+        "name": "Chamorro",
+        "nativeName": "Chamoru",
+        "iso6392": "cha"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "NO",
+    "alpha3Code": "NOR",
+    "callingCodes": [
+      "47"
+    ],
+    "id": "62c600d0058e6079efe7bafb",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/nor.svg",
+    "name": "Norway",
+    "nativeName": "Norge",
+    "numericCode": "578",
+    "languages": [
+      {
+        "iso6391": "no",
+        "name": "Norwegian",
+        "nativeName": "Norsk",
+        "iso6392": "nor"
+      },
+      {
+        "iso6391": "nb",
+        "name": "Norwegian Bokmål",
+        "nativeName": "Norsk bokmål",
+        "iso6392": "nob"
+      },
+      {
+        "iso6391": "nn",
+        "name": "Norwegian Nynorsk",
+        "nativeName": "Norsk nynorsk",
+        "iso6392": "nno"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "OM",
+    "alpha3Code": "OMN",
+    "callingCodes": [
+      "968"
+    ],
+    "id": "62c600d3058e6079efe7bafd",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/omn.svg",
+    "name": "Oman",
+    "nativeName": "عمان",
+    "numericCode": "512",
+    "languages": [
+      {
+        "iso6391": "ar",
+        "name": "Arabic",
+        "nativeName": "العربية",
+        "iso6392": "ara"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "PK",
+    "alpha3Code": "PAK",
+    "callingCodes": [
+      "92"
+    ],
+    "id": "62c600d4058e6079efe7bafe",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/pak.svg",
+    "name": "Pakistan",
+    "nativeName": "Pakistan",
+    "numericCode": "586",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      },
+      {
+        "iso6391": "ur",
+        "name": "Urdu",
+        "nativeName": "اردو",
+        "iso6392": "urd"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "PW",
+    "alpha3Code": "PLW",
+    "callingCodes": [
+      "680"
+    ],
+    "id": "62c60092058e6079efe7bacf",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/plw.svg",
+    "name": "Palau",
+    "nativeName": "Palau",
+    "numericCode": "585",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "PS",
+    "alpha3Code": "PSE",
+    "callingCodes": [
+      "970"
+    ],
+    "id": "62c6015a058e6079efe7bb55",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/pse.svg",
+    "name": "Palestine, State of",
+    "nativeName": "فلسطين",
+    "numericCode": "275",
+    "languages": [
+      {
+        "iso6391": "ar",
+        "name": "Arabic",
+        "nativeName": "العربية",
+        "iso6392": "ara"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "PA",
+    "alpha3Code": "PAN",
+    "callingCodes": [
+      "507"
+    ],
+    "id": "62c600de058e6079efe7bb04",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/pan.svg",
+    "name": "Panama",
+    "nativeName": "Panamá",
+    "numericCode": "591",
+    "languages": [
+      {
+        "iso6391": "es",
+        "name": "Spanish",
+        "nativeName": "Español",
+        "iso6392": "spa"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "PG",
+    "alpha3Code": "PNG",
+    "callingCodes": [
+      "675"
+    ],
+    "id": "62c600da058e6079efe7bb02",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/png.svg",
+    "name": "Papua New Guinea",
+    "nativeName": "Papua Niugini",
+    "numericCode": "598",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "PY",
+    "alpha3Code": "PRY",
+    "callingCodes": [
+      "595"
+    ],
+    "id": "62c600d6058e6079efe7baff",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/pry.svg",
+    "name": "Paraguay",
+    "nativeName": "Paraguay",
+    "numericCode": "600",
+    "languages": [
+      {
+        "iso6391": "es",
+        "name": "Spanish",
+        "nativeName": "Español",
+        "iso6392": "spa"
+      },
+      {
+        "iso6391": "gn",
+        "name": "Guaraní",
+        "nativeName": "Avañe'ẽ",
+        "iso6392": "grn"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "PE",
+    "alpha3Code": "PER",
+    "callingCodes": [
+      "51"
+    ],
+    "id": "62c600d7058e6079efe7bb00",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/per.svg",
+    "name": "Peru",
+    "nativeName": "Perú",
+    "numericCode": "604",
+    "languages": [
+      {
+        "iso6391": "es",
+        "name": "Spanish",
+        "nativeName": "Español",
+        "iso6392": "spa"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "PH",
+    "alpha3Code": "PHL",
+    "callingCodes": [
+      "63"
+    ],
+    "id": "62c600d9058e6079efe7bb01",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/phl.svg",
+    "name": "Philippines",
+    "nativeName": "Pilipinas",
+    "numericCode": "608",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "PN",
+    "alpha3Code": "PCN",
+    "callingCodes": [
+      "64"
+    ],
+    "id": "62c600dc058e6079efe7bb03",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/pcn.svg",
+    "name": "Pitcairn",
+    "nativeName": "Pitcairn Islands",
+    "numericCode": "612",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "PL",
+    "alpha3Code": "POL",
+    "callingCodes": [
+      "48"
+    ],
+    "id": "62c600e1058e6079efe7bb05",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/pol.svg",
+    "name": "Poland",
+    "nativeName": "Polska",
+    "numericCode": "616",
+    "languages": [
+      {
+        "iso6391": "pl",
+        "name": "Polish",
+        "nativeName": "język polski",
+        "iso6392": "pol"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "PT",
+    "alpha3Code": "PRT",
+    "callingCodes": [
+      "351"
+    ],
+    "id": "62c600e2058e6079efe7bb06",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/prt.svg",
+    "name": "Portugal",
+    "nativeName": "Portugal",
+    "numericCode": "620",
+    "languages": [
+      {
+        "iso6391": "pt",
+        "name": "Portuguese",
+        "nativeName": "Português",
+        "iso6392": "por"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "PR",
+    "alpha3Code": "PRI",
+    "callingCodes": [
+      "1787",
+      "1939"
+    ],
+    "id": "62c600e4058e6079efe7bb07",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/pri.svg",
+    "name": "Puerto Rico",
+    "nativeName": "Puerto Rico",
+    "numericCode": "630",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      },
+      {
+        "iso6391": "es",
+        "name": "Spanish",
+        "nativeName": "Español",
+        "iso6392": "spa"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "QA",
+    "alpha3Code": "QAT",
+    "callingCodes": [
+      "974"
+    ],
+    "id": "62c600e5058e6079efe7bb08",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/qat.svg",
+    "name": "Qatar",
+    "nativeName": "قطر",
+    "numericCode": "634",
+    "languages": [
+      {
+        "iso6391": "ar",
+        "name": "Arabic",
+        "nativeName": "العربية",
+        "iso6392": "ara"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "XK",
+    "alpha3Code": "KOS",
+    "callingCodes": [
+      "383"
+    ],
+    "id": "62c602ee160ecf9ca97aad70",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/kos.svg",
+    "name": "Republic of Kosovo",
+    "nativeName": "Republika e Kosovës",
+    "numericCode": null,
+    "languages": [
+      {
+        "iso6391": "sq",
+        "name": "Albanian",
+        "nativeName": "Shqip",
+        "iso6392": "sqi"
+      },
+      {
+        "iso6391": "sr",
+        "name": "Serbian",
+        "nativeName": "српски језик",
+        "iso6392": "srp"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "RO",
+    "alpha3Code": "ROU",
+    "callingCodes": [
+      "40"
+    ],
+    "id": "62c600f1058e6079efe7bb10",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/rou.svg",
+    "name": "Romania",
+    "nativeName": "România",
+    "numericCode": "642",
+    "languages": [
+      {
+        "iso6391": "ro",
+        "name": "Romanian",
+        "nativeName": "Română",
+        "iso6392": "ron"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "RU",
+    "alpha3Code": "RUS",
+    "callingCodes": [
+      "7"
+    ],
+    "id": "62c602ef160ecf9ca97aad71",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/rus.svg",
+    "name": "Russian Federation",
+    "nativeName": "Россия",
+    "numericCode": "643",
+    "languages": [
+      {
+        "iso6391": "ru",
+        "name": "Russian",
+        "nativeName": "Русский",
+        "iso6392": "rus"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "RW",
+    "alpha3Code": "RWA",
+    "callingCodes": [
+      "250"
+    ],
+    "id": "62c600e7058e6079efe7bb09",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/rwa.svg",
+    "name": "Rwanda",
+    "nativeName": "Rwanda",
+    "numericCode": "646",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      },
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      },
+      {
+        "iso6391": "rw",
+        "name": "Kinyarwanda",
+        "nativeName": "Ikinyarwanda",
+        "iso6392": "kin"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "RE",
+    "alpha3Code": "REU",
+    "callingCodes": [
+      "262"
+    ],
+    "id": "62c600f0058e6079efe7bb0f",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/reu.svg",
+    "name": "Réunion",
+    "nativeName": "La Réunion",
+    "numericCode": "638",
+    "languages": [
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "BL",
+    "alpha3Code": "BLM",
+    "callingCodes": [
+      "590"
+    ],
+    "id": "62c600ee058e6079efe7bb0e",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/blm.svg",
+    "name": "Saint Barthélemy",
+    "nativeName": "Saint-Barthélemy",
+    "numericCode": "652",
+    "languages": [
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "SH",
+    "alpha3Code": "SHN",
+    "callingCodes": [
+      "290"
+    ],
+    "id": "62c600e8058e6079efe7bb0a",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/shn.svg",
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "nativeName": "Saint Helena",
+    "numericCode": "654",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "KN",
+    "alpha3Code": "KNA",
+    "callingCodes": [
+      "1869"
+    ],
+    "id": "62c600e9058e6079efe7bb0b",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/kna.svg",
+    "name": "Saint Kitts and Nevis",
+    "nativeName": "Saint Kitts and Nevis",
+    "numericCode": "659",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "LC",
+    "alpha3Code": "LCA",
+    "callingCodes": [
+      "1758"
+    ],
+    "id": "62c600eb058e6079efe7bb0c",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/lca.svg",
+    "name": "Saint Lucia",
+    "nativeName": "Saint Lucia",
+    "numericCode": "662",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "MF",
+    "alpha3Code": "MAF",
+    "callingCodes": [
+      "590"
+    ],
+    "id": "62c602f1160ecf9ca97aad72",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/maf.svg",
+    "name": "Saint Martin (French part)",
+    "nativeName": "Saint-Martin",
+    "numericCode": "663",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      },
+      {
+        "iso6391": "nl",
+        "name": "Dutch",
+        "nativeName": "Nederlands",
+        "iso6392": "nld"
+      },
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "PM",
+    "alpha3Code": "SPM",
+    "callingCodes": [
+      "508"
+    ],
+    "id": "62c602f2160ecf9ca97aad73",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/spm.svg",
+    "name": "Saint Pierre and Miquelon",
+    "nativeName": "Saint-Pierre-et-Miquelon",
+    "numericCode": "666",
+    "languages": [
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "VC",
+    "alpha3Code": "VCT",
+    "callingCodes": [
+      "1784"
+    ],
+    "id": "62c600f7058e6079efe7bb13",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/vct.svg",
+    "name": "Saint Vincent and the Grenadines",
+    "nativeName": "Saint Vincent and the Grenadines",
+    "numericCode": "670",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "WS",
+    "alpha3Code": "WSM",
+    "callingCodes": [
+      "685"
+    ],
+    "id": "62c600fc058e6079efe7bb16",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/wsm.svg",
+    "name": "Samoa",
+    "nativeName": "Samoa",
+    "numericCode": "882",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      },
+      {
+        "iso6391": "sm",
+        "name": "Samoan",
+        "nativeName": "gagana fa'a Samoa",
+        "iso6392": "smo"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "SM",
+    "alpha3Code": "SMR",
+    "callingCodes": [
+      "378"
+    ],
+    "id": "62c600f3058e6079efe7bb11",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/smr.svg",
+    "name": "San Marino",
+    "nativeName": "San Marino",
+    "numericCode": "674",
+    "languages": [
+      {
+        "iso6391": "it",
+        "name": "Italian",
+        "nativeName": "Italiano",
+        "iso6392": "ita"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "ST",
+    "alpha3Code": "STP",
+    "callingCodes": [
+      "239"
+    ],
+    "id": "62c600ff058e6079efe7bb18",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/stp.svg",
+    "name": "Sao Tome and Principe",
+    "nativeName": "São Tomé e Príncipe",
+    "numericCode": "678",
+    "languages": [
+      {
+        "iso6391": "pt",
+        "name": "Portuguese",
+        "nativeName": "Português",
+        "iso6392": "por"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "SA",
+    "alpha3Code": "SAU",
+    "callingCodes": [
+      "966"
+    ],
+    "id": "62c600f4058e6079efe7bb12",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/sau.svg",
+    "name": "Saudi Arabia",
+    "nativeName": "العربية السعودية",
+    "numericCode": "682",
+    "languages": [
+      {
+        "iso6391": "ar",
+        "name": "Arabic",
+        "nativeName": "العربية",
+        "iso6392": "ara"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "SN",
+    "alpha3Code": "SEN",
+    "callingCodes": [
+      "221"
+    ],
+    "id": "62c600f8058e6079efe7bb14",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/sen.svg",
+    "name": "Senegal",
+    "nativeName": "Sénégal",
+    "numericCode": "686",
+    "languages": [
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "RS",
+    "alpha3Code": "SRB",
+    "callingCodes": [
+      "381"
+    ],
+    "id": "62c600fa058e6079efe7bb15",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/srb.svg",
+    "name": "Serbia",
+    "nativeName": "Србија",
+    "numericCode": "688",
+    "languages": [
+      {
+        "iso6391": "sr",
+        "name": "Serbian",
+        "nativeName": "српски језик",
+        "iso6392": "srp"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "SC",
+    "alpha3Code": "SYC",
+    "callingCodes": [
+      "248"
+    ],
+    "id": "62c600fd058e6079efe7bb17",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/syc.svg",
+    "name": "Seychelles",
+    "nativeName": "Seychelles",
+    "numericCode": "690",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      },
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "SL",
+    "alpha3Code": "SLE",
+    "callingCodes": [
+      "232"
+    ],
+    "id": "62c60101058e6079efe7bb19",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/sle.svg",
+    "name": "Sierra Leone",
+    "nativeName": "Sierra Leone",
+    "numericCode": "694",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "SG",
+    "alpha3Code": "SGP",
+    "callingCodes": [
+      "65"
+    ],
+    "id": "62c600ec058e6079efe7bb0d",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/sgp.svg",
+    "name": "Singapore",
+    "nativeName": "Singapore",
+    "numericCode": "702",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      },
+      {
+        "iso6391": "ms",
+        "name": "Malay",
+        "nativeName": "bahasa Melayu",
+        "iso6392": "msa"
+      },
+      {
+        "iso6391": "zh",
+        "name": "Chinese",
+        "nativeName": "中文 (Zhōngwén)",
+        "iso6392": "zho"
+      },
+      {
+        "iso6391": "ta",
+        "name": "Tamil",
+        "nativeName": "தமிழ்",
+        "iso6392": "tam"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "SX",
+    "alpha3Code": "SXM",
+    "callingCodes": [
+      "1721"
+    ],
+    "id": "62c6030b160ecf9ca97aad83",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/sxm.svg",
+    "name": "Sint Maarten (Dutch part)",
+    "nativeName": "Sint Maarten",
+    "numericCode": "534",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      },
+      {
+        "iso6391": "nl",
+        "name": "Dutch",
+        "nativeName": "Nederlands",
+        "iso6392": "nld"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "SK",
+    "alpha3Code": "SVK",
+    "callingCodes": [
+      "421"
+    ],
+    "id": "62c60108058e6079efe7bb1e",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/svk.svg",
+    "name": "Slovakia",
+    "nativeName": "Slovensko",
+    "numericCode": "703",
+    "languages": [
+      {
+        "iso6391": "sk",
+        "name": "Slovak",
+        "nativeName": "slovenčina",
+        "iso6392": "slk"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "SI",
+    "alpha3Code": "SVN",
+    "callingCodes": [
+      "386"
+    ],
+    "id": "62c6010b058e6079efe7bb20",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/svn.svg",
+    "name": "Slovenia",
+    "nativeName": "Slovenija",
+    "numericCode": "705",
+    "languages": [
+      {
+        "iso6391": "sl",
+        "name": "Slovene",
+        "nativeName": "slovenski jezik",
+        "iso6392": "slv"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "SB",
+    "alpha3Code": "SLB",
+    "callingCodes": [
+      "677"
+    ],
+    "id": "62c60102058e6079efe7bb1a",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/slb.svg",
+    "name": "Solomon Islands",
+    "nativeName": "Solomon Islands",
+    "numericCode": "090",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "SO",
+    "alpha3Code": "SOM",
+    "callingCodes": [
+      "252"
+    ],
+    "id": "62c602f7160ecf9ca97aad76",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/som.svg",
+    "name": "Somalia",
+    "nativeName": "Soomaaliya",
+    "numericCode": "706",
+    "languages": [
+      {
+        "iso6391": "ar",
+        "name": "Arabic",
+        "nativeName": "العربية",
+        "iso6392": "ara"
+      },
+      {
+        "iso6391": "so",
+        "name": "Somali",
+        "nativeName": "Soomaaliga",
+        "iso6392": "som"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "ZA",
+    "alpha3Code": "ZAF",
+    "callingCodes": [
+      "27"
+    ],
+    "id": "62c60103058e6079efe7bb1b",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/zaf.svg",
+    "name": "South Africa",
+    "nativeName": "South Africa",
+    "numericCode": "710",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      },
+      {
+        "iso6391": "tn",
+        "name": "Tswana",
+        "nativeName": "Setswana",
+        "iso6392": "tsn"
+      },
+      {
+        "iso6391": "st",
+        "name": "Southern Sotho",
+        "nativeName": "Sesotho",
+        "iso6392": "sot"
+      },
+      {
+        "iso6391": "af",
+        "name": "Afrikaans",
+        "nativeName": "Afrikaans",
+        "iso6392": "afr"
+      },
+      {
+        "iso6391": "nr",
+        "name": "Southern Ndebele",
+        "nativeName": "isiNdebele",
+        "iso6392": "nbl"
+      },
+      {
+        "iso6391": "ss",
+        "name": "Swati",
+        "nativeName": "SiSwati",
+        "iso6392": "ssw"
+      },
+      {
+        "iso6391": "ts",
+        "name": "Tsonga",
+        "nativeName": "Xitsonga",
+        "iso6392": "tso"
+      },
+      {
+        "iso6391": "ve",
+        "name": "Venda",
+        "nativeName": "Tshivenḓa",
+        "iso6392": "ven"
+      },
+      {
+        "iso6391": "xh",
+        "name": "Xhosa",
+        "nativeName": "isiXhosa",
+        "iso6392": "xho"
+      },
+      {
+        "iso6391": "zu",
+        "name": "Zulu",
+        "nativeName": "isiZulu",
+        "iso6392": "zul"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "GS",
+    "alpha3Code": "SGS",
+    "callingCodes": [
+      "500"
+    ],
+    "id": "62c60105058e6079efe7bb1c",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/sgs.svg",
+    "name": "South Georgia and the South Sandwich Islands",
+    "nativeName": "South Georgia",
+    "numericCode": "239",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "SS",
+    "alpha3Code": "SSD",
+    "callingCodes": [
+      "211"
+    ],
+    "id": "62c60109058e6079efe7bb1f",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/ssd.svg",
+    "name": "South Sudan",
+    "nativeName": "South Sudan",
+    "numericCode": "728",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "ES",
+    "alpha3Code": "ESP",
+    "callingCodes": [
+      "34"
+    ],
+    "id": "62c6010d058e6079efe7bb21",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/esp.svg",
+    "name": "Spain",
+    "nativeName": "España",
+    "numericCode": "724",
+    "languages": [
+      {
+        "iso6391": "es",
+        "name": "Spanish",
+        "nativeName": "Español",
+        "iso6392": "spa"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "LK",
+    "alpha3Code": "LKA",
+    "callingCodes": [
+      "94"
+    ],
+    "id": "62c6010e058e6079efe7bb22",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/lka.svg",
+    "name": "Sri Lanka",
+    "nativeName": "śrī laṃkāva",
+    "numericCode": "144",
+    "languages": [
+      {
+        "iso6391": "ta",
+        "name": "Tamil",
+        "nativeName": "தமிழ்",
+        "iso6392": "tam"
+      },
+      {
+        "iso6391": "si",
+        "name": "Sinhalese",
+        "nativeName": "සිංහල",
+        "iso6392": "sin"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "SD",
+    "alpha3Code": "SDN",
+    "callingCodes": [
+      "249"
+    ],
+    "id": "62c602f8160ecf9ca97aad77",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/sdn.svg",
+    "name": "Sudan",
+    "nativeName": "السودان",
+    "numericCode": "729",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      },
+      {
+        "iso6391": "ar",
+        "name": "Arabic",
+        "nativeName": "العربية",
+        "iso6392": "ara"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "SR",
+    "alpha3Code": "SUR",
+    "callingCodes": [
+      "597"
+    ],
+    "id": "62c60111058e6079efe7bb24",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/sur.svg",
+    "name": "Suriname",
+    "nativeName": "Suriname",
+    "numericCode": "740",
+    "languages": [
+      {
+        "iso6391": "nl",
+        "name": "Dutch",
+        "nativeName": "Nederlands",
+        "iso6392": "nld"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "SJ",
+    "alpha3Code": "SJM",
+    "callingCodes": [
+      "4779"
+    ],
+    "id": "62c60115058e6079efe7bb26",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/sjm.svg",
+    "name": "Svalbard and Jan Mayen",
+    "nativeName": "Svalbard og Jan Mayen",
+    "numericCode": "744",
+    "languages": [
+      {
+        "iso6391": "no",
+        "name": "Norwegian",
+        "nativeName": "Norsk",
+        "iso6392": "nor"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "SZ",
+    "alpha3Code": "SWZ",
+    "callingCodes": [
+      "268"
+    ],
+    "id": "62c60110058e6079efe7bb23",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/swz.svg",
+    "name": "Swaziland",
+    "nativeName": "Swaziland",
+    "numericCode": "748",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      },
+      {
+        "iso6391": "ss",
+        "name": "Swati",
+        "nativeName": "SiSwati",
+        "iso6392": "ssw"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "SE",
+    "alpha3Code": "SWE",
+    "callingCodes": [
+      "46"
+    ],
+    "id": "62c60114058e6079efe7bb25",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/swe.svg",
+    "name": "Sweden",
+    "nativeName": "Sverige",
+    "numericCode": "752",
+    "languages": [
+      {
+        "iso6391": "sv",
+        "name": "Swedish",
+        "nativeName": "svenska",
+        "iso6392": "swe"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "CH",
+    "alpha3Code": "CHE",
+    "callingCodes": [
+      "41"
+    ],
+    "id": "62c6011a058e6079efe7bb2a",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/che.svg",
+    "name": "Switzerland",
+    "nativeName": "Schweiz",
+    "numericCode": "756",
+    "languages": [
+      {
+        "iso6391": "de",
+        "name": "German",
+        "nativeName": "Deutsch",
+        "iso6392": "deu"
+      },
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      },
+      {
+        "iso6391": "it",
+        "name": "Italian",
+        "nativeName": "Italiano",
+        "iso6392": "ita"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "SY",
+    "alpha3Code": "SYR",
+    "callingCodes": [
+      "963"
+    ],
+    "id": "62c60116058e6079efe7bb27",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/syr.svg",
+    "name": "Syrian Arab Republic",
+    "nativeName": "سوريا",
+    "numericCode": "760",
+    "languages": [
+      {
+        "iso6391": "ar",
+        "name": "Arabic",
+        "nativeName": "العربية",
+        "iso6392": "ara"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "TW",
+    "alpha3Code": "TWN",
+    "callingCodes": [
+      "886"
+    ],
+    "id": "62c60118058e6079efe7bb28",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/twn.svg",
+    "name": "Taiwan",
+    "nativeName": "臺灣",
+    "numericCode": "158",
+    "languages": [
+      {
+        "iso6391": "zh",
+        "name": "Chinese",
+        "nativeName": "中文 (Zhōngwén)",
+        "iso6392": "zho"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "TJ",
+    "alpha3Code": "TJK",
+    "callingCodes": [
+      "992"
+    ],
+    "id": "62c60119058e6079efe7bb29",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/tjk.svg",
+    "name": "Tajikistan",
+    "nativeName": "Тоҷикистон",
+    "numericCode": "762",
+    "languages": [
+      {
+        "iso6391": "ru",
+        "name": "Russian",
+        "nativeName": "Русский",
+        "iso6392": "rus"
+      },
+      {
+        "iso6391": "tg",
+        "name": "Tajik",
+        "nativeName": "тоҷикӣ",
+        "iso6392": "tgk"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "TZ",
+    "alpha3Code": "TZA",
+    "callingCodes": [
+      "255"
+    ],
+    "id": "62c6011c058e6079efe7bb2b",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/tza.svg",
+    "name": "Tanzania, United Republic of",
+    "nativeName": "Tanzania",
+    "numericCode": "834",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      },
+      {
+        "iso6391": "sw",
+        "name": "Swahili",
+        "nativeName": "Kiswahili",
+        "iso6392": "swa"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "TH",
+    "alpha3Code": "THA",
+    "callingCodes": [
+      "66"
+    ],
+    "id": "62c602fa160ecf9ca97aad78",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/tha.svg",
+    "name": "Thailand",
+    "nativeName": "ประเทศไทย",
+    "numericCode": "764",
+    "languages": [
+      {
+        "iso6391": "th",
+        "name": "Thai",
+        "nativeName": "ไทย",
+        "iso6392": "tha"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "TL",
+    "alpha3Code": "TLS",
+    "callingCodes": [
+      "670"
+    ],
+    "id": "62c602fc160ecf9ca97aad79",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/tls.svg",
+    "name": "Timor-Leste",
+    "nativeName": "Timor-Leste",
+    "numericCode": "626",
+    "languages": [
+      {
+        "iso6391": "pt",
+        "name": "Portuguese",
+        "nativeName": "Português",
+        "iso6392": "por"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "TG",
+    "alpha3Code": "TGO",
+    "callingCodes": [
+      "228"
+    ],
+    "id": "62c60122058e6079efe7bb2f",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/tgo.svg",
+    "name": "Togo",
+    "nativeName": "Togo",
+    "numericCode": "768",
+    "languages": [
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "TK",
+    "alpha3Code": "TKL",
+    "callingCodes": [
+      "690"
+    ],
+    "id": "62c60126058e6079efe7bb32",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/tkl.svg",
+    "name": "Tokelau",
+    "nativeName": "Tokelau",
+    "numericCode": "772",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "TO",
+    "alpha3Code": "TON",
+    "callingCodes": [
+      "676"
+    ],
+    "id": "62c60129058e6079efe7bb34",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/ton.svg",
+    "name": "Tonga",
+    "nativeName": "Tonga",
+    "numericCode": "776",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      },
+      {
+        "iso6391": "to",
+        "name": "Tonga (Tonga Islands)",
+        "nativeName": "faka Tonga",
+        "iso6392": "ton"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "TT",
+    "alpha3Code": "TTO",
+    "callingCodes": [
+      "1868"
+    ],
+    "id": "62c6011d058e6079efe7bb2c",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/tto.svg",
+    "name": "Trinidad and Tobago",
+    "nativeName": "Trinidad and Tobago",
+    "numericCode": "780",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "TN",
+    "alpha3Code": "TUN",
+    "callingCodes": [
+      "216"
+    ],
+    "id": "62c6011f058e6079efe7bb2d",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/tun.svg",
+    "name": "Tunisia",
+    "nativeName": "تونس",
+    "numericCode": "788",
+    "languages": [
+      {
+        "iso6391": "ar",
+        "name": "Arabic",
+        "nativeName": "العربية",
+        "iso6392": "ara"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "TR",
+    "alpha3Code": "TUR",
+    "callingCodes": [
+      "90"
+    ],
+    "id": "62c60121058e6079efe7bb2e",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/tur.svg",
+    "name": "Turkey",
+    "nativeName": "Türkiye",
+    "numericCode": "792",
+    "languages": [
+      {
+        "iso6391": "tr",
+        "name": "Turkish",
+        "nativeName": "Türkçe",
+        "iso6392": "tur"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "TM",
+    "alpha3Code": "TKM",
+    "callingCodes": [
+      "993"
+    ],
+    "id": "62c60123058e6079efe7bb30",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/tkm.svg",
+    "name": "Turkmenistan",
+    "nativeName": "Türkmenistan",
+    "numericCode": "795",
+    "languages": [
+      {
+        "iso6391": "ru",
+        "name": "Russian",
+        "nativeName": "Русский",
+        "iso6392": "rus"
+      },
+      {
+        "iso6391": "tk",
+        "name": "Turkmen",
+        "nativeName": "Türkmen",
+        "iso6392": "tuk"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "TC",
+    "alpha3Code": "TCA",
+    "callingCodes": [
+      "1649"
+    ],
+    "id": "62c602fd160ecf9ca97aad7a",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/tca.svg",
+    "name": "Turks and Caicos Islands",
+    "nativeName": "Turks and Caicos Islands",
+    "numericCode": "796",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "TV",
+    "alpha3Code": "TUV",
+    "callingCodes": [
+      "688"
+    ],
+    "id": "62c60125058e6079efe7bb31",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/tuv.svg",
+    "name": "Tuvalu",
+    "nativeName": "Tuvalu",
+    "numericCode": "798",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "UG",
+    "alpha3Code": "UGA",
+    "callingCodes": [
+      "256"
+    ],
+    "id": "62c60128058e6079efe7bb33",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/uga.svg",
+    "name": "Uganda",
+    "nativeName": "Uganda",
+    "numericCode": "800",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      },
+      {
+        "iso6391": "sw",
+        "name": "Swahili",
+        "nativeName": "Kiswahili",
+        "iso6392": "swa"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "UA",
+    "alpha3Code": "UKR",
+    "callingCodes": [
+      "380"
+    ],
+    "id": "62c6012b058e6079efe7bb35",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/ukr.svg",
+    "name": "Ukraine",
+    "nativeName": "Україна",
+    "numericCode": "804",
+    "languages": [
+      {
+        "iso6391": "uk",
+        "name": "Ukrainian",
+        "nativeName": "Українська",
+        "iso6392": "ukr"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "AE",
+    "alpha3Code": "ARE",
+    "callingCodes": [
+      "971"
+    ],
+    "id": "62c602ff160ecf9ca97aad7b",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/are.svg",
+    "name": "United Arab Emirates",
+    "nativeName": "دولة الإمارات العربية المتحدة",
+    "numericCode": "784",
+    "languages": [
+      {
+        "iso6391": "ar",
+        "name": "Arabic",
+        "nativeName": "العربية",
+        "iso6392": "ara"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "GB",
+    "alpha3Code": "GBR",
+    "callingCodes": [
+      "44"
+    ],
+    "id": "62c60135058e6079efe7bb3c",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/gbr.svg",
+    "name": "United Kingdom of Great Britain and Northern Ireland",
+    "nativeName": "United Kingdom",
+    "numericCode": "826",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "UM",
+    "alpha3Code": "UMI",
+    "callingCodes": [
+      ""
+    ],
+    "id": "62c60141058e6079efe7bb44",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/umi.svg",
+    "name": "United States Minor Outlying Islands",
+    "nativeName": "United States Minor Outlying Islands",
+    "numericCode": "581",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "US",
+    "alpha3Code": "USA",
+    "callingCodes": [
+      "1"
+    ],
+    "id": "62c6030d160ecf9ca97aad84",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/usa.svg",
+    "name": "United States of America",
+    "nativeName": "United States",
+    "numericCode": "840",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "UY",
+    "alpha3Code": "URY",
+    "callingCodes": [
+      "598"
+    ],
+    "id": "62c6012c058e6079efe7bb36",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/ury.svg",
+    "name": "Uruguay",
+    "nativeName": "Uruguay",
+    "numericCode": "858",
+    "languages": [
+      {
+        "iso6391": "es",
+        "name": "Spanish",
+        "nativeName": "Español",
+        "iso6392": "spa"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "UZ",
+    "alpha3Code": "UZB",
+    "callingCodes": [
+      "998"
+    ],
+    "id": "62c60132058e6079efe7bb3a",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/uzb.svg",
+    "name": "Uzbekistan",
+    "nativeName": "O‘zbekiston",
+    "numericCode": "860",
+    "languages": [
+      {
+        "iso6391": "ru",
+        "name": "Russian",
+        "nativeName": "Русский",
+        "iso6392": "rus"
+      },
+      {
+        "iso6391": "uz",
+        "name": "Uzbek",
+        "nativeName": "Oʻzbek",
+        "iso6392": "uzb"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "VU",
+    "alpha3Code": "VUT",
+    "callingCodes": [
+      "678"
+    ],
+    "id": "62c6012e058e6079efe7bb37",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/vut.svg",
+    "name": "Vanuatu",
+    "nativeName": "Vanuatu",
+    "numericCode": "548",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      },
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      },
+      {
+        "iso6391": "bi",
+        "name": "Bislama",
+        "nativeName": "Bislama",
+        "iso6392": "bis"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "VE",
+    "alpha3Code": "VEN",
+    "callingCodes": [
+      "58"
+    ],
+    "id": "62c6012f058e6079efe7bb38",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/ven.svg",
+    "name": "Venezuela (Bolivarian Republic of)",
+    "nativeName": "Venezuela",
+    "numericCode": "862",
+    "languages": [
+      {
+        "iso6391": "es",
+        "name": "Spanish",
+        "nativeName": "Español",
+        "iso6392": "spa"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "VN",
+    "alpha3Code": "VNM",
+    "callingCodes": [
+      "84"
+    ],
+    "id": "62c60131058e6079efe7bb39",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/vnm.svg",
+    "name": "Viet Nam",
+    "nativeName": "Việt Nam",
+    "numericCode": "704",
+    "languages": [
+      {
+        "iso6391": "vi",
+        "name": "Vietnamese",
+        "nativeName": "Tiếng Việt",
+        "iso6392": "vie"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "VG",
+    "alpha3Code": "VGB",
+    "callingCodes": [
+      "1284"
+    ],
+    "id": "62c602f5160ecf9ca97aad75",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/vgb.svg",
+    "name": "Virgin Islands (British)",
+    "nativeName": "British Virgin Islands",
+    "numericCode": "092",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "VI",
+    "alpha3Code": "VIR",
+    "callingCodes": [
+      "1 340"
+    ],
+    "id": "62c6003c058e6079efe7ba91",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/vir.svg",
+    "name": "Virgin Islands (U.S.)",
+    "nativeName": "Virgin Islands of the United States",
+    "numericCode": "850",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "WF",
+    "alpha3Code": "WLF",
+    "callingCodes": [
+      "681"
+    ],
+    "id": "62c60134058e6079efe7bb3b",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/wlf.svg",
+    "name": "Wallis and Futuna",
+    "nativeName": "Wallis et Futuna",
+    "numericCode": "876",
+    "languages": [
+      {
+        "iso6391": "fr",
+        "name": "French",
+        "nativeName": "français",
+        "iso6392": "fra"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "EH",
+    "alpha3Code": "ESH",
+    "callingCodes": [
+      "212"
+    ],
+    "id": "62c60137058e6079efe7bb3d",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/esh.svg",
+    "name": "Western Sahara",
+    "nativeName": "الصحراء الغربية",
+    "numericCode": "732",
+    "languages": [
+      {
+        "iso6391": "es",
+        "name": "Spanish",
+        "nativeName": "Español",
+        "iso6392": "spa"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "YE",
+    "alpha3Code": "YEM",
+    "callingCodes": [
+      "967"
+    ],
+    "id": "62c60300160ecf9ca97aad7c",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/yem.svg",
+    "name": "Yemen",
+    "nativeName": "اليَمَن",
+    "numericCode": "887",
+    "languages": [
+      {
+        "iso6391": "ar",
+        "name": "Arabic",
+        "nativeName": "العربية",
+        "iso6392": "ara"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "ZM",
+    "alpha3Code": "ZMB",
+    "callingCodes": [
+      "260"
+    ],
+    "id": "62c60143058e6079efe7bb46",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/zmb.svg",
+    "name": "Zambia",
+    "nativeName": "Zambia",
+    "numericCode": "894",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "ZW",
+    "alpha3Code": "ZWE",
+    "callingCodes": [
+      "263"
+    ],
+    "id": "62c60138058e6079efe7bb3e",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/zwe.svg",
+    "name": "Zimbabwe",
+    "nativeName": "Zimbabwe",
+    "numericCode": "716",
+    "languages": [
+      {
+        "iso6391": "en",
+        "name": "English",
+        "nativeName": "English",
+        "iso6392": "eng"
+      },
+      {
+        "iso6391": "sn",
+        "name": "Shona",
+        "nativeName": "chiShona",
+        "iso6392": "sna"
+      },
+      {
+        "iso6391": "nd",
+        "name": "Northern Ndebele",
+        "nativeName": "isiNdebele",
+        "iso6392": "nde"
+      }
+    ]
+  },
+  {
+    "alpha2Code": "AX",
+    "alpha3Code": "ALA",
+    "callingCodes": [
+      "358"
+    ],
+    "id": "62c6001b058e6079efe7ba7a",
+    "flag": "https://storage.googleapis.com/graphql-country.appspot.com/flags/ala.svg",
+    "name": "Åland Islands",
+    "nativeName": "Åland",
+    "numericCode": "248",
+    "languages": [
+      {
+        "iso6391": "sv",
+        "name": "Swedish",
+        "nativeName": "svenska",
+        "iso6392": "swe"
+      }
+    ]
+  }
+]
