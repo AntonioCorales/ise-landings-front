@@ -14,9 +14,9 @@ export interface CounterBannerProps {
 const { hideButton } = Astro.props;
 
 const input = detailsStore.value?.input;
-if (!input) return;
-const price = getPrice(input.price, "USD");
-const originalPrice = getPrice(input.normalPrice, "USD");
+// if (!input) return;
+const price = getPrice(input?.price ?? 0, "USD");
+const originalPrice = getPrice(input?.normalPrice ?? 0, "USD");
 ---
 
 <div

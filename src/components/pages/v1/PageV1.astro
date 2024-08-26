@@ -1,5 +1,4 @@
 ---
-import CounterBanner from "@/components/pages/v1/CounterBanner.astro";
 import GeneralSection from "@components/GeneralSection.astro";
 import PriceSection from "@/components/pages/v1/PriceSection.astro";
 import PriceBanner from "@/components/pages/v1/PriceBanner.astro";
@@ -13,8 +12,7 @@ if (!input) return;
 ---
 
 <div class="page relative min-h-[200vh] pb-20 lg:pb-12">
-  <CounterBanner transition:persist transition:name="counter" />
-  <div class="h-4 bg-[--body-bg-v1]"></div>
+ 
   <GeneralSection class="flex flex-col-reverse gap-16 section-v1 lg:grid lg:gap-10 lg:grid-cols-3">
     <div class="col-span-2">
     <Tabs input={input} client:load />

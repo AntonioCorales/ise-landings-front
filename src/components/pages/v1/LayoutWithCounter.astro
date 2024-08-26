@@ -8,9 +8,9 @@ interface Props extends GeneralLayoutProps, CounterBannerProps {}
 const { title, hideButton: hideCounterButton } = Astro.props;
 ---
 
-<LayoutV1 title={title} >
+<LayoutV1 title={title} >  
   <div class="page relative pb-6 lg:pb-6">
-    <CounterBanner transition:persist transition:name="counter" hideButton={hideCounterButton} />
+    <CounterBanner hideButton={hideCounterButton} />
     <div class="h-4 bg-[--body-bg-v1]" />
     <slot />
   </div>
